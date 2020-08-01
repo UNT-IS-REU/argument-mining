@@ -2,9 +2,13 @@
 # 2020-05-08
 # Extract case fulltext from json file and split the text into single sentences
 
-import json
-import tools.lexpredict.lexnlp.nlp.en.segments.sentences as lexSenSplit
+# Standard Library Imports
 from xml.dom.minidom import parseString
+
+# Third Party Library Imports
+import tools.lexpredict.lexnlp.nlp.en.segments.sentences as lexSenSplit
+
+# Local Library Imports
 
 
 def getCaseLawData(inputFile):
