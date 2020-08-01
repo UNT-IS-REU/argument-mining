@@ -1,0 +1,560 @@
+Sentence,Complete,f1,f2,f3,f4
+L.Rev.,0,0.5,2,6,6
+"1755 (U.S. 1976), quoting N.A.A.C.P.",0,0.5,2.2,6.4,36
+"Reporter's Transcript, pp.6-7.",0,0.6,4.6,9.333333333,30
+2189 (U.S. 1971).,0,0.6,2,5,17
+1686 (U.S. 1971).,0,0.6,2,5,17
+328 (U.S. 1963).,0,0.6,1.8,4.666666667,16
+303 (U.S. 1973).,0,0.6,1.8,4.666666667,16
+1116 (U.S. 1965).,0,0.6,2,5,17
+1629 (1948).,0,0.666666667,2.666666667,5.5,12
+1102 (1979).,0,0.666666667,2.666666667,5.5,12
+922 (1974).,0,0.666666667,2.333333333,5,11
+25 (1963).,0,0.666666667,2,4.5,10
+"""Section 50.38.",0,0.666666667,3.666666667,7,15
+1971); cert.,0,0.666666667,2.666666667,5.5,12
+(emphasis ours.),0,0.666666667,4,7.5,16
+"696, 700 (D.C. 1961).",0,0.666666667,2,4.5,21
+79-0043A and 79-0044A).,0,0.75,4.25,7,23
+"1756, 1768 (1977).",0,0.75,3,5.333333333,18
+"456, 468 (1942).",0,0.75,2.5,4.666666667,16
+"175 (1963), cert.",0,0.75,2.75,5,17
+"Section 231.3(a), (c), (1), (2), Juvenile Court Act. Public Law 13-133, Chapter III.",0,0.764705882,3.235294118,5.538461538,84
+"U.S. v. Angcog, 190 F.Supp.",0,0.833333333,2.833333333,4.6,27
+"O'Brien, 88 S. Ct. 1673, 1679 (1968).",0,0.875,2.875,4.428571429,37
+"U.S. v. Ventresca, 380 U.S. 102, 85 S.Ct.",0,0.888888889,2.777777778,4.25,41
+"State, 52 N.Y.S.2d 894 (1945); 45 Cal.Jur.2d, State of California, §163.",0,0.916666667,4.166666667,5.636363636,72
+"...' United States v. Petrillo, 332 U.S. 1, 7-8, 67 S. Ct. 1538, 1542, 91 L.Ed.",0,0.941176471,2.764705882,4,79
+"Reporter's Transcript, pp.",0,1,7,8,26
+(citations omitted) .,0,1,5.333333333,6.333333333,21
+den.,0,1,3,4,4
+"386 U.S. 1042, 87 S.Ct.",0,1,2.8,3.8,23
+"1478, 18 L.Ed.",0,1,3,4,14
+"1509, 12 L.Ed.",0,1,3,4,14
+48 USC 1421(a).,0,1,3.333333333,4.333333333,15
+"457, 93 L.Ed.",0,1,2.666666667,3.666666667,13
+"See, e.g. Robinson v.",0,1,3.5,4.5,21
+den.,0,1,3,4,4
+seq.,0,1,3,4,4
+§21502.,0,1,6,7,7
+Establishment.,0,1,13,14,14
+"denied, 402 U.S. 1008, 91 S.Ct.",0,1,3.333333333,4.333333333,31
+"v. Button, 371 U.S. 415, 433, 83 S.Ct.",0,1,2.875,3.875,38
+"Kusper v. Pontikes, 414 U.S. 51, 58-59, 94 S.Ct.",0,1,3.444444444,4.444444444,48
+"U.S. v. Karnes, 437 F.2d 284, 287 (9th Cir.",0,1.125,3.375,3.888888889,43
+"McCray v. Illinois, 386 U.S. 300, 87 S.Ct.",0,1.142857143,4,4.375,42
+"See, Restatement, Agency 2d, p. 485, sec.",0,1.166666667,4.833333333,5,41
+"i.e. ""all States other than Oregon.""",0,1.2,5.2,5.166666667,36
+"1065, 1136-37 (1979) (footnote omitted), as quoted in Commonwealth v. Butler 328 A.2d 851, 860 (Pa. 1974).",0,1.214285714,5.428571429,5.294117647,106
+"Franks v. Delaware, 98 S.Ct.",0,1.25,5,4.8,28
+"Aguilar v. Texas, 378 U.S. 108 , 84 S.Ct.",0,1.285714286,3.714285714,3.666666667,41
+"Commonwealth v. Butler 328 A.2d 851, 860 (Pa. 1974).",0,1.285714286,5.285714286,4.888888889,52
+"City of Cincinnati, 402 U.S. 611, 619, 91 S.Ct.",0,1.285714286,4.571428571,4.333333333,47
+"Franks v. Delaware, supra.",0,1.333333333,6.666666667,5.75,26
+Grand Juries §43 (1943).,0,1.333333333,6,5.25,24
+"Franks v. Delaware, supra.",1,1.333333333,6.666666667,5.75,26
+"Dombrowski v. Pfister, 380 U.S. 479 , 494 , 85 S.Ct.",0,1.375,4.25,3.818181818,52
+"See, Brown v. Arrington Construction Co., 74 Idaho 338, 262 P.2d 789, dicta (1953).",0,1.4,6,5,83
+"See Roth v. United States, 77 S. Ct. 1304 (1975).",0,1.428571429,4.714285714,4,49
+"See Veriddo v. Renard, 35 Cal.2d 263, 217 P.2d 647 (1950); Bleeck v.",0,1.444444444,5.222222222,4.307692308,68
+"Miller v. California, 93 S. Ct. 2607, 2616 n.",0,1.5,5.166666667,4.111111111,45
+"Smith v. United States, 97 S.Ct.",0,1.5,5.75,4.5,32
+"Glasser v. United States, 62 S.Ct.",0,1.5,6.25,4.833333333,34
+"at 2670, n.",0,1.5,3.5,3,11
+"10, 93 S. Ct. at 2617.",0,1.5,3.25,2.833333333,22
+"Lamorena III, Esquire.",0,1.5,9,6.666666667,22
+"1056, 18 L.Ed 2d 62. reh.",0,1.5,4,3.333333333,25
+on round-trip contracts.,0,1.5,10,7.333333333,24
+"See also Busse v. U.S., 542 F.2d 421, 425",0,1.5,4.5,3.666666667,41
+"Domestic and Foreign Corporation, 337 U.S. 682, 69 S.Ct.",0,1.5,7,5.333333333,56
+And as P.L.,0,1.5,3.5,3,11
+"State of Alaska, 489 P.2d 1271 (1971), United States v. Trenary 473 F.2d 680 (1973).",0,1.5,6,4.666666667,84
+"United States v. Perkins, 383 F.Supp.",0,1.5,7,5.333333333,37
+Government Code §6500.12.,0,1.5,10.5,7.666666667,25
+"""(I)n the First Amendment area 'government may regulate.",0,1.6,8.8,6.125,56
+"2963, 41 L.Ed.2d 935 (1974) and its progeny (e.g. Durso v. Rowe, supra) were ignored by the Director of Corrections.",1,1.666666667,7.083333333,4.85,116
+"8 (1973), see also United States v.",0,1.75,6.25,4.142857143,35
+"Before proceeding to appellant's Miller-based contentions, we.",0,1.75,13,8,62
+"Miller v. California, supra at 2617, n.",0,1.75,7.25,4.714285714,39
+"In re Grand Jury Investigation, 32 F.R.D.",0,1.75,7.75,5,41
+"See, 1A Sutherland, Statutory Construction Section 23.16.",0,1.75,11.75,7.285714286,57
+"Hynes v. Mayor and Council of Borough of Oradell, 425 U.S. 610, 620,96 S.Ct.",0,1.75,6.875,4.5,76
+People v. Francisco S. Palacios and Valerie M. Palacios (D.C. Criminal Case Nos.,0,1.857142857,8.714285714,5.230769231,80
+"b. prepares, published, prints, exhibits, distributes, or offers to distribute any obscene material;",1,1.857142857,11.57142857,6.769230769,100
+"Neither expert testimony on community standards, Hamling v. United States, supra at 2912-2914, nor instructions on precisely what ""community"" to consider, Jenkings v. Georgia, 418 U.S. 153, 157 (1974), are constitutionally required.",1,1.882352941,10.82352941,6.28125,232
+at 994.,0,2,5,3,7
+"Miller v. California, supra at 2615, n 6.",0,2,7.5,4.25,41
+"In Re Giannini, 69 Cal. 2d 653, 72 Cal. Rptr.",0,2,6.2,3.6,45
+"As stated in Kois v. Wisconsin, 92 S.Ct.",0,2,7.25,4.125,40
+"2245, 2246 (1972), and cited in Miller v. California, supra at 2615:",0,2,8.5,4.75,68
+"Miller v. California, supra at 2615.",0,2,9.333333333,5.166666667,36
+at 2907.,0,2,6,3.5,8
+at 2615.,0,2,6,3.5,8
+"at 2615, n 6.",0,2,4,2.5,13
+2nd 616.,0,2,6,3.5,8
+2nd 723.,0,2,6,3.5,8
+We affirm.,0,2,8,4.5,10
+"Wright and Miller, Volume 14, §3655.",0,2,9.333333333,5.166666667,36
+McMahon v.,0,2,8,4.5,10
+See also.,0,2,7,4,9
+Coates v.,0,2,7,4,9
+"only with narrow specificity.""",0,2,12.5,6.75,30
+"The natural father is, however, unknown.",1,2,10.66666667,5.833333333,40
+Defendant's motion is DENIED.,1,2,12,6.5,29
+Plaintiff's motion is GRANTED.,1,2,12.5,6.75,30
+SO ORDERED.,1,2,9,5,11
+SO ORDERED.,1,2,9,5,11
+SO ORDERED.,1,2,9,5,11
+SO ORDERED.,1,2,9,5,11
+"12 200-ft. Reels of Film, 93 S. Ct. 2665 (1973), decided the same day as Miller, the Court said:",0,2.111111111,7.666666667,4.105263158,96
+"Accordingly, we find that appellant suffered no loss by use of the ""social importance"" standard in §§28.45(a)(3) and 28.45(c) of the Guam Criminal and Correctional Code.",1,2.166666667,11,5.538461538,169
+"Office of City and County of Honolulu, 465 P.2d 549 (1970).",0,2.2,8.8,4.454545455,59
+"Superior Court, 566 P. 2d 327 (1977), the court held that:",0,2.2,8.6,4.363636364,58
+"As stated in Durso v. Rowe, 579 F.2d 1365 (7th Cir.",0,2.2,7.2,3.727272727,51
+"See, 2A Moore's Federal Practice Paragraph 8.27 [3] and Wright, and Miller, Federal Practice and Procedure: Civil §1278.",0,2.25,11.875,5.722222222,120
+"However, Government Code §21502 is, at first blush, ambiguous.",1,2.25,12.5,6,62
+"There is no question that the petitioners' rights guaranteed under Wolff v. McDonnel, 418 U.S. 539, 94 S.Ct.",1,2.25,10.375,5.055555556,108
+"Handing v. United States, supra at 2904.",0,2.333333333,10.33333333,4.857142857,40
+"Hamling v. United States, supra at 2908.",0,2.333333333,10.33333333,4.857142857,40
+"Developments in the Law-Equal Protection, 82 Harv.",0,2.333333333,13.66666667,6.285714286,50
+seq. of the Government Code of Guam.),0,2.333333333,9.333333333,4.428571429,37
+"Accordingly, it is the ruling of this court that all references to ""husband"", ""wife"", ""him"", and ""her"" in the Civil Code §139 are repealed, and that this statute should be read with the non-sex-based term ""a party"" wherever such terms are used.",1,2.333333333,10.27777778,4.833333333,244
+"Indeed, many of the 'core values of unqualified liberty' which the Supreme Court recognized that parolees enjoy, see Morrissey, supra, 408 U.S. at 482, 92 S.Ct.",1,2.363636364,11.27272727,5.192307692,160
+"The Government further asserts that ""these are not necessarily the exclusive public interests which the statute was enacted to protect..."", but rather, ""... it is possible that the Legislature formulated additional reasons for enacting the statute,"" (emphasis ours.)",1,2.375,13.3125,6.026315789,266
+These billings as shown are $25.18 and the installation charge is $35.00.,1,2.4,11.4,5.166666667,73
+"while the Court in Miller did refer to ""specific prerequisites"" which ""will provide fair notice to a dealer in such materials,"" 413 U.S., at 27, 93 S. Ct. at 2616, the Court immediately thereafter quoted the language of the Court in Roth v. United States, 354 U.S., at 491-492, 77 S. Ct., at 1312-1313, concluding with these words:",1,2.416666667,10.41666667,4.724137931,331
+"As the law stands, a U.S. citizen could be fined $1,000.00 for erecting a permitted sign on his front lawn reading only, ""America the Beautiful"", in Tagalog.",1,2.454545455,10.90909091,4.851851852,157
+"IT IS HEREBY ORDERED, ADJUDGED AND DECREED, that Guam P.L.",0,2.5,11.25,4.9,58
+"2593, are also present here.",1,2.5,11,4.8,28
+"See, for example, J. Harlan's separate opinion in Interstate Circuit, Inc. v. Dallas, 88 S. Ct. 1298 (1968), wherein he expressed that the ""intractable obscenity problem"" had led to ""a variety of views among the members of the Court unmatched in any other course of constitutional adjudication.""",1,2.611111111,12.83333333,5.29787234,295
+"observe that the Court expressly provided that it did not adopt as a constitutional standard the ""utterly without redeeming social value"" test (cf. part (c) of the Miller test), incorporated in part three of the test articulated in Memoirs v. Massachusetts, 86 S. Ct. 975, 977 (1966), and provided in §28.45(a)(3) of the Guam Criminal and Correctional Code.",1,2.636363636,12.63636364,5.172413793,357
+Van de Brug v. R. Paramaguru et al.,0,2.666666667,8.333333333,3.5,35
+Off-the-record discussions may lend credence to such criticism.,1,2.666666667,17.66666667,7,63
+"In Miller and Handing, the Court reiterated its pronouncement in Roth v. United States, 77 S. Ct. 1304 (1957):",0,2.714285714,12.14285714,4.842105263,110
+"The third criterion of Section 28.45(a) is that the performance must be ""utterly without redeeming social importance.""",1,2.833333333,16,6,118
+"655, 446 P.2d 535 (1968), cited by appellant in support of her argument, is inapposite to the current state of the law regarding ""contemporary community standards.""",1,2.888888889,14.44444444,5.346153846,164
+See Larson v.,0,3,10,3.666666667,13
+In Wilkey v.,0,3,9,3.333333333,12
+"Pursuant to Government Code §6500.15, trial was before the court, without jury.",0,3,16,5.666666667,79
+1978) at 1371:,0,3,11,4,14
+A work-release participant's freedom is more,0,3,18.5,6.5,44
+Duran attempted to photograph appellant's performance.,1,3,23.5,8.166666667,54
+In what way?,1,3,9,3.333333333,12
+"Brenda, the minor daughter of the respondent, was represented by Alberto J.C.",1,3,15.5,5.5,77
+The Fourteenth Guam Legislature enacted P.L.,1,3,18.5,6.5,44
+"Clearly, plaintiff is covered by the Workmen's Compensation Law.",1,3,17.66666667,6.222222222,64
+"Further language in §21502 speaks of the Authority's being ""within the government"".",1,3,17,6,83
+"14-28(b), which provides ""Equality of Rights under the law shall not be denied or abridged on account of sex.14-28(b), which provides ""Equality of Rights under the law shall not be denied or abridged on account of sex.",1,3.083333333,14.16666667,4.918918919,218
+"It is unnecessarily restrictive and beyond a ""reasonable"" relationship to include all ""permitted signs"" in an effort to specifically regulate ""advertising signs"".",1,3.142857143,19.14285714,6.409090909,162
+"""For even when pursuing a legitimate interest, a State may not choose means that unnecessarily restrict constitutionally protected liberty....",0,3.166666667,19.66666667,6.526315789,142
+"Plaintiff appeared through counsel Paul J. Rodgers, and defendant was represented by counsel E. R. Crain.",1,3.2,17,5.625,105
+Section 28.45(a) of the Guam Criminal and Correctional Code states:,0,3.333333333,18.33333333,5.8,67
+"In view of the foregoing, the mother-child relationship is severed.",1,3.333333333,18.33333333,5.8,67
+"The basic guidelines for the trier of fact must be: (a) whether ""the average person, applying contemporary community standards"" would find that the work, taken as a whole, appeals to the prurient interest, (citations omitted); (b) whether the work depicts or describes, in a patently offensive way, sexual conduct specifically defined by the applicable state law; and (c) whether the work, taken as a",0,3.368421053,16.73684211,5.265625,400
+"The definition of obscenity ... is not a question of fact, but one of law; the word is not merely a generic or descriptive term, but a legal term of art. (citations omitted) .",1,3.4,13.2,4.176470588,175
+"There was an additional argument raised by defendant upon which the Court did not rule, i.e., the effect of Public Law 13-115 (§9990 et.",0,3.428571429,15.14285714,4.708333333,136
+"Accordingly, we conclude that the language of §28.45 and §28.50, and particularly that language of §28.50(y), gave adequate notice to appellant that her conduct was within the prohibition of the statute.",1,3.444444444,18.22222222,5.580645161,203
+"Dated this 26th day of October, 1979.",0,3.5,14.5,4.428571429,37
+"Dated this 12th day of December, 1978.",0,3.5,15,4.571428571,38
+"Dated this 25th day of March, 1980.",0,3.5,13.5,4.142857143,35
+"Brenda was born on September 7, 1979.",1,3.5,14.5,4.428571429,37
+"This was proper and appropriate, for, although such a defense is normally barred by Rules of Civil Procedure 8(c) if not pleaded, the defendant may, nonetheless, take advantage of the plaintiff's proof, and, if necessary, the court will raise the issue itself.",1,3.5,17.25,5.214285714,260
+"3It should be further noted that while Authority employees are covered by Workmen's Compensation, the benefits are actually paid from the Government of Guam's Workmen's Compensation Fund, Government Code §21512(b).",0,3.75,22.125,6.166666667,214
+"In language often used by the courts, ""CRI"" was known to be a reliable informant.",1,3.75,15.75,4.466666667,81
+"d. sells advertises or disseminates material, whether or not obscene, by advertising, representing or suggesting that is is obscene;",1,3.8,21.8,6,132
+"See e.g. Durso v. Rowe, supra, and §39100.2 of the Government Code, stating that the provisions of the Chapter dealing with parole shall apply when considering the eligibility for extramural programs.",1,3.875,20.25,5.483870968,200
+In United States v.,0,4,15,4,19
+"(a) Patently offensive representation or descriptions of ultimate sexual acts normal or perverted, actual or simulated.",0,4,25,6.5,119
+IT IS SO ORDERED.,0,4,13,3.5,17
+"Continuing, the Government asserts:",0,4,31,8,35
+"The rationale for this proposition is that the Miller Court had included in its opinion language to the effect that""... existing state statutes, as construed heretofore or hereafter, may well be adequate.""",1,4,20.75,5.4375,205
+"She was dancing nude, and she exposed herself.",1,4,18.5,4.875,46
+1. its predominant appeal is to prurient interest;,1,4,20.5,5.375,50
+3. it is utterly without redeeming social importance.,1,4,22,5.75,53
+"On September 20, 1979, the petitioner, an attorney at law, was appointed by this Court to represent the interests of the said minor, Brenda.",1,4,18.5,4.875,140
+Barbara is mentally retarded.,1,4,25,6.5,29
+"After the child, Brenda, was born her habitual running did not cease.",1,4,18.33333333,4.833333333,69
+Indictments dismissed without prejudice.,1,4,36,9.25,40
+"""We are compelled to note the strong similarities between parole and work-release.",1,4,22.66666667,5.916666667,82
+"Like a parolee, a convict on work-release can pursue employment or education.",1,4,21,5.5,77
+INDICTMENTS DISMISSED WITHOUT PREJUDICE.,1,4,36,9.25,40
+"We note first that obscenity can manifest itself in conduct as well as through means of verbal and pictorial expression, Kaplan v. California, 93 S. Ct. 2680, 2683-2684 (1973), and that States have greater power to regulate nonverbal, physical conduct than to suppress depictions or descriptions of the same behavior.",1,4.166666667,21.33333333,5.36,317
+"With all the Authority's special privileges, which include exemption from taxation, government retirement benefits, etc., the Guam Power Authority Act of 1968 would clearly be void as violative of 48 U.S.C. §1471 if the Authority were not within the Government of Guam.",1,4.2,21.8,5.428571429,269
+"This court, upon review of all the records submitted herein, denies defendant's motion for the following reasons.",1,4.25,23.25,5.705882353,113
+"In Marks v. United States, 97 S. Ct. 990 (1977), referring to the third part of the Memoirs test the Court added that ""clearly it was thought that some conduct which would have gone unpunished under Memoirs would result in conviction under Miller.""",1,4.3,19.6,4.790697674,248
+"The Government's witness, Mr. Duran, admitted he did not see appellant's entire performance since he entered the Sandy You club after appellant had begun her dance.",1,4.333333333,22.16666667,5.346153846,164
+"""Though recordation of grand jury testimony is the better practice and is required by judicial order, such recordation is not mandated by (the United States) Constitution.""",1,4.333333333,23.5,5.653846154,172
+"The second part (part (b)) of the Miller guidelines for the trier of fact in determining what is patently offensive is ""whether",0,4.4,20.2,4.818181818,127
+"Further, Government Code §21512(c), which was passed as part of the Guam Power Authority Act of 1968, as originally passed, specifically states that the manager, secretary, treasurer, comptroller and attorney of the Authority are not within the classified service of the Government of Guam.",1,4.4,23.7,5.613636364,290
+...[T]he Constitution does not require impossible standards; all that is required it that the language conveys sufficiently definite warning as to the proscribed conduct when measured by common understanding and practices.,0,4.428571429,26.42857143,6.193548387,222
+"In People v. Pipes, 179 Cal. App. 2d 547 (1969), referring to the California statute which was in effect at the time of certain grand jury proceedings and the defendant's request for a copy of such proceedings, the court noted:",0,4.444444444,19.88888889,4.7,227
+"That conduct must be specifically defined by the applicable state law, as written or authoritatively construed (footnote omitted).",1,4.5,27.25,6.277777778,130
+"A state offense must also be limited to works which, taken as whole, appeal to the prurient interest in sex, which portray sexual conduct in a patently offensive way, and which, taken as a whole, do not have serious literary, artistic, political, or scientific value.",1,4.5,21.3,4.955555556,267
+"After the final hearing, he was placed in closed confinement for thirty days, with an additional thirty-day probation.",1,4.5,24.25,5.611111111,118
+It is notable that even appellant concedes that the Guam statute does forbid the presentation of an obscene performance (appellant's brief at p.5).,1,4.6,24,5.434782609,147
+"As to the issue of hearsay, the Court finds these documents to be non-hearsay.",1,4.666666667,20.66666667,4.642857143,78
+"Yet, the same §21502 sets forth that the Guam Power Authority is an ""instrumentality"" of the Government of Guam.",1,4.75,22.5,4.947368421,112
+"This is especially true, when as here, we have a governing statute which speaks in terms of repeal ""to the extent of such inconsistency.""",1,4.8,21.8,4.75,137
+"Where a statute denies equal protection by making an unconstitutional classification, the classification can be abolished by making the statute operate either on everyone or on no one .....",1,4.833333333,25.83333333,5.551724138,189
+"On or about February 10, 1978, at approximately 1:05 p.m., a Mr. Duran of the Department of Public Safety Vice Division had gone with an Officer Sabían to the Sandy You Club in Tamuning.",1,4.857142857,20.85714286,4.5,186
+"""That there may be marginal cases in which it is difficult to determine the side of the line on which particular fact situation falls is no sufficient reason to hold the language to ambiguous to define a criminal offense..."" 413 U.S., at 28 n.",0,4.888888889,21.22222222,4.545454545,243
+"Regarding the ""contemporary community standards"" to be applied in judging appellant's conduct, the trial judge charged the jury as follows:",0,5,29,6,139
+"These words, applied according to the proper standard for judging obscenity ... give adequate warning to conduct proscribed and mark",0,5,27.25,5.65,132
+We do not hold .,0,5,11,2.4,16
+Judgment shall be for defendant.,0,5,27,5.6,32
+"Upon review of appellant's contentions, we find no basis for reversal, and accordingly AFFIRM the judgment of the trial court.",1,5,25.75,5.35,126
+"Appellant argues that this reference to statutes ""existing"" at the time Miller was decided precludes judicial construction of statutes passed after the decision, and therefore Guam's statute, which had been passed approximately three years after Miller, is not capable of being ""saved"" by judicial construction.",1,5,28.66666667,5.933333333,311
+id she do anything else?,1,5,19,4,24
+"The above-entitled action is a special proceedings brought before the Court on behalf of the minor child, Brenda, natural daughter of the respondent, Barbara Finona.",1,5,27.2,5.64,165
+"In reviewing the Child Welfare Services Social Worker's reports, it is evident that termination is in the child's best interest.",1,5,26.25,5.45,128
+Petition to terminate is GRANTED.,1,5,28,5.8,33
+"Second, although this statute as written is violative of the Constitution, and by authority of Orr v. Orr void, this court need not reach this result, or indeed a federal constitutional issue, in this case.",1,5,23.57142857,4.914285714,206
+"Judgment was entered against Pacific Realty on April 9, 1979.",1,5,25,5.2,61
+"The off-the-record discussions being sufficient grounds for reversal, we decline to reach the other issues raised in this consolidated appeal.",1,5,29.75,6.15,142
+This is an apparent contradiction.,1,5,29,6,34
+Court ruled to reserve decision.,1,5,27,5.6,32
+"The Government asserts that Defendant ""has not carried the burden of affirmatively showing that as applied to him, the statute in unreasonable, unfair and oppressive.""",1,5,27.6,5.72,167
+This case is hereby dismissed.,1,5,25,5.2,30
+"The question that must first be answered is whether the phraseology ""obscene act"" and obscene exhibition of his (sic) body"" was sufficient as notice to appellant that her conduct was proscribed.",1,5.166666667,26.33333333,5.290322581,194
+".in the event that defendant fails to provide answers to those interrogatories that defendant previously responded to by answering 'N/A' or 'Not knowledgeable of the fact' on or before October 17, 1979, defendant shall be precluded from introducing the requested information in evidence for any purpose at the trial in this matter.""",0,5.2,27.1,5.403846154,332
+"The Trial Court granted the motion to suppress on the grounds that (1) they made by the ""CRI"" was not a supervised buy about which Officer Klinge was competent to testify from firsthand knowledge and (2) there was not presented sufficient showing that the ""CRI"" was reliable.",1,5.222222222,24.44444444,4.872340426,275
+"Prior to the birth of Brenda, she (Barbara) was constantly involved in runaway proceedings and associated with stealing and burglary charges.",1,5.25,29.25,5.761904762,141
+"On April 14, 1976, the Superior Court dismissed appellants' complaint for failure to comply with the Government of Guam Claims Act.",1,5.25,26.75,5.285714286,131
+"2In determining whether or not agency relationship exists, control, or the right to control is considered.",0,5.333333333,29.33333333,5.6875,106
+"It was on December 10, 1979 that Barbara and Brenda were missing from the caretaker's home.",1,5.333333333,24.33333333,4.75,91
+At issue are alleged irregularities occurring during grand jury proceedings consisting of discussions being held off-the-record.,1,5.333333333,36.66666667,7.0625,128
+"If the Government of Guam is actually the plaintiff's employer, Government Code §37005 bars this action.",1,5.333333333,28.66666667,5.5625,104
+"With the reestablishment of petitioners' rights to participate in the Halfway House Correctional Work-Release Program, the",1,5.333333333,34.66666667,6.6875,122
+"The above entitled action came on regularly to be heard on the 23rd day of January, 1978, Honorable Cristobal C. Dueñas, Judge of said Court, presiding; the petitioner, Russell Wong, Deputy, Consumer Counsel, a public official, appearing and being represented by his attorney, Ronald J. Cristal, Assistant Attorney General, and Doris Camina, Director, Bureau of Budget and Management Research, a public official, appearing without counsel, whereupon the papers filed by the petitioner and the stipulation filed by the respondent and petitioner were received, the case having been argued and submitted to the Court for its decision and the Court having duly considered the matters submitted and the argument of counsel, and being fully advised in the premises, did render and file its Findings of Fact and Conclusions of Law, and, pursuant to said Findings of Fact and Conclusions of Law,",1,5.384615385,27.76923077,5.342857143,887
+"The Court believes that a law requiring any permitted sign, no matter how big or small, on any land, be it public or private, in any language other than Chamorro or English to have a translation into either which ""must predominate the sign"", [has] a chilling effect on such a protected mode of expression.",1,5.4,24.2,4.666666667,305
+"However, this is not dispositive of the question before the court.",0,5.5,27,5.090909091,66
+"Well, she was laying on the stage on her side, and she lifted one of her legs way up in the air, and with hands, she parted her labia, exposing the inner section.",1,5.5,20.66666667,3.939393939,162
+the various component parts of the constitutional definition of obscenity need not be alleged ... in order to establish its sufficiency .,1,5.5,28,5.272727273,137
+"Plaintiff's motion for an Order to show Cause is GRANTED, and Plaintiff's attorney is to make a motion for a hearing date.",1,5.5,24.25,4.590909091,122
+The Court fails to find weight in the Government's remaining arguments.,1,5.5,29.5,5.545454545,71
+"This being the case, the Government of Guam cannot, as a matter of law, be a third party with respect to plaintiff.",1,5.5,22.5,4.272727273,115
+"Thus, the bare fact that compensation to plaintiff under the Worlonen's Compensation Law would come from the Government of Guam's Workmen's Compensation Fund is sufficient to bar plaintiff's claim under Government Code §37005.",1,5.5,31.33333333,5.878787879,226
+"A prisoner has certain vested rights, similar to a parolee, once he is afforced the benefits of participating in a work-release program.",1,5.5,27.75,5.227272727,136
+Prison officials allegedly the denied Reyes' request to produce certain witnesses.,1,5.5,35,6.545454545,82
+"The Government asserts that ""... there is certainly a reasonable relation between the requirement of a translation on advertising signs and the heretofore referenced public interests which the statute was enacted to protect.""",1,5.5,31.16666667,5.848484848,225
+"Though the Government has so far restricted itself to ""the shopowners and business affected by the legislation"", this is of little comfort.",1,5.5,28.5,5.363636364,139
+"All laws, rules, regulations, and Executive Orders with the force of law which are inconsistent with this section are hereby repealed to the extent of such ■ inconsistency.""",1,5.6,28.2,5.214285714,173
+"This matter came on for hearing on April 4, 1980 to hear defendant, Gretchen Luttrell's, motion to quash service of summons by publication based on insufficiency of process.",1,5.6,28.2,5.214285714,173
+"A year after Miller was decided, in Hamling v. United States, 94 S. Ct. 2887 (1974), the Court was presented with the question of whether its rejection of the third part of the Memoirs test and its revision in Miller indicated that the Memoirs formulation was determined to be unconstitutionally vague.",1,5.666666667,27,4.941176471,302
+(h) performs an obscene act or otherwise presents obscene exhibition of his body in a public place.,1,5.666666667,26.66666667,4.882352941,99
+"The weight, if any, to which such evidence is entitled is a matter for you to determine.",1,5.666666667,23,4.235294118,88
+"The standard of any such local community may not be taken, in and of itself, to establish the territory-wide standard, thought it may be considered as some evidence of what the territory-wide standard is.",1,5.666666667,27.5,5.029411765,204
+"The natural mother, Barbara, is a minor who is presently in the Department of Youth Affairs dormitory.",1,5.666666667,27.66666667,5.058823529,102
+"14-28(b) speaks to repeal to the extent of inconsistency, not the voiding of statutes which are violative of equal protection, it is the court's task to determine whether Civil Code §139 must be held repealed in whole or in part.",1,5.714285714,26.14285714,4.75,229
+"Appellant first makes a broad attack on Guam Criminal and Correctional Code §28.45 and §28.50, alleging that they are unconstitutionally vague and overbroad.",1,5.75,32.75,5.869565217,157
+"Nevertheless, a review and disposition of whether §28.45 and §28.50 are unconstitutional as applied to the specific conduct of appellant is appropriate here.",1,5.75,32.75,5.869565217,157
+"Based on the foregoing, this Court finds no ground to strike the documents as submitted by plaintiff, and accordingly DENIES the Government's motion.",1,5.75,30.75,5.52173913,149
+"The use of the terminology ""obscene act"" and ""obscene exhibition"" is therefore sufficiently definite in legal meaning as to have provided appellant with notice of the charge against her.",1,5.8,30.6,5.448275862,186
+"This matter came for hearing on May 16, 1980, to consider defendant Government's motion to strike certain documents attached in support of plaintiff's motion in opposition to summary judgment.",1,5.8,31.8,5.655172414,192
+"""Although a statute may be neither vague, overbroad, nor otherwise invalid as applied to the conduct charged against a particular defendant, he is permitted to raise its vagueness or unconstitutional overbreadth as applied to others.""",1,5.833333333,32.33333333,5.714285714,234
+"From this admittedly partially-observed performance, appellant argues that it was impossible for Duran to describe appellant's entire performance to the jury and therefore, it was impossible for the jury to determine whether the performance, as a whole, was in fact obscene.",1,5.857142857,32.42857143,5.707317073,274
+"(1) all grand jury proceedings are to be recorded, except jury's deliberation but recording during formal recess is not required if recess is actually a hiatus in proceeding is which jurors do not discuss case with other; (2) no conversation is to be allowed between jurors and witnesses during recess; (3) no off-the-record conversation is to be allowed between jurors and prosecutors regarding the case or any legal aspect of it and (4) all actions of the prosecutor and jurors should be susceptible to review to insure defendant an impartial, just and unbiased hearing.",0,5.875,28.9375,5.095744681,572
+"Thus, even if appellant's performance opened with a Shakespearean recitation and climaxed with an aria from the ""Barber of Seville,"" a jury could nevertheless have found that, notwithstanding whatever social importance was gleaned from the entire performance, it was insufficient to redeem the obscene act or exhibition.",1,5.875,33.25,5.829787234,320
+"In Miller, the Court stated that:",0,6,27,4.666666667,33
+"In Hamling, the court stated that:",0,6,28,4.833333333,34
+"This appeal concerns the revocation of appellant's release on bail by the Superior Court on October 24, 1975.",1,6,29.66666667,5.111111111,109
+"In a July 19, 1979 Opinion, the District Court determined that a three-judge panel is not required to hear appeals relating to bail hearings.",1,6,28.5,4.916666667,141
+Duran then placed appellant under arrest.,1,6,35,6,41
+"And five, it is conduct which, taken as a whole is utterly without redeeming social value or importance.",1,6,28,4.833333333,104
+(h) performs and obscene act or otherwise presents an obscene exhibition of his body in a public place.,1,6,27.66666667,4.777777778,103
+"The petition came before this Court for hearing on February 14, 1980.",1,6,28,4.833333333,69
+"However, no showing of this kind was made in the trial court.",1,6,24,4.166666667,61
+"We hold that off-the-record discussions such as occurred here are prohibited in grand jury proceedings, and accordingly vacate the judgment of the Superior Court.",1,6,33.75,5.791666667,162
+We adopt the holding of Wilkey.,1,6,25,4.333333333,31
+"However, no copy shall be delivered to a defendant prior to his first appearance pursuant to Section 45.30.",1,6,29,5,107
+"On April 28, 1978 three was a reclassification hearing, where, according to his testimony, he was not given an opportunity to question witnesses regarding the assault charges brought against him.",1,6,32.2,5.533333333,195
+"Reyes was returned to the Adult Main Facility on November 25, 1978.",1,6,27,4.666666667,67
+"The October 24, 1975 revocation of defendant’s release on bail is reversed, and the defendant is ordered released on the same conditions as previously existed, with the additional condition that he stay at his parents' house and observe a curfew between the hours of 9:00 p.m. and 6:00 a.m.",0,6.125,29.25,4.93877551,290
+"Also, it seems that appellant's counsel was not given adequate notice and time to prepare for a hearing on the revocation of his client's bail.",1,6.25,28.75,4.76,143
+"If the Guam Power Authority is ""autonomous"" as set forth in §21502, how can an agency relationship exist between it and the Government of Guam?",1,6.25,28.75,4.76,143
+"On December 11, 1979 a final hearing was held, which resulted in Strauss permanent removal from the work-release program and a demotion in step level.",1,6.25,30.5,5.04,150
+"The Government further contends that such documents are hearsay, violate the Best Evidence Rule, and are not properly authenticated.",1,6.333333333,37,6,132
+"There is within, and a public corporation and autonomous instrumentality of, the Government of Guam a Guam Power Authority.",1,6.333333333,34,5.526315789,123
+"""Many decisions have recognized that these terms of obscenity statutes are not precise.",0,6.5,36.5,5.769230769,87
+"The Affidavit showed that in the two previous buys made by ""CRI"" under",0,6.5,28,4.461538462,70
+"Because of this, we are not inclined to disturb the verdict as rendered.",1,6.5,29,4.615384615,72
+a.sends or brings any obscene material into this territory for sale or distribution;,1,6.5,35,5.538461538,84
+Plaintiff's motion prohibiting defendant from using the information referred to is hereby GRANTED.,1,6.5,42,6.615384615,98
+"Santos was taken out of the work-release program and returned to the Adult Main Facility on January 6, 1980, where he was placed in solitary confinement.",1,6.5,31,4.923076923,153
+"The Government of Guam must use the least restrictive means that would accomplish the legislative purpose of Bill 754 (15th Guam Legislature, 1979 First Regular Session).",1,6.5,35.25,5.576923077,170
+"Our reading of §28.45 and §28.50 in the light of the Court's statements in Roth, 12 200-ft. Reels and Hamling leads us to conclude that, although the language of the Guam obscenity statue is at variance with the guidelines set out verbatim in Miller, the language is sufficiently specific under Miller as to be absent of any constitutional defect.",1,6.555555556,31.11111111,4.898305085,347
+"Section 413 of the Code of Civil Procedure provides the time frame within which a defendant must respond to the summons served by order of publication, ""... the service of the summons is complete at the expiration of the time prescribed by the order of publication.""",1,6.571428571,30.57142857,4.804347826,266
+"As noted by plaintiff in the memorandum in opposition to defendant Boonprakongs' motion, the arbitration statute has come before this Court for consideration in Civil Case No. 518-76 Van de Brug and A.",1,6.6,32.8,5.121212121,201
+"2. it goes substantially beyond customary limits of candor in the description or representation of nudity, sex or excrétion; and",0,6.666666667,35.33333333,5.45,128
+"Because of this, the Court reasoned that they were entitled to jury instructions requiring the jury to acquit unless it found that the materials involved in the charge were, in accordance with the Memoirs standard, ""utterly without redeeming social value.""",1,6.666666667,35.16666667,5.425,256
+"This Court, however, has consistently held that lack of precision is not itself offensive to the requirements of due process.",1,6.666666667,34.33333333,5.3,125
+"The integrity of the grand jury system, however, is certainly enhanced by keeping the entire proceeding a matter of record.",1,6.666666667,33.66666667,5.2,123
+"He may also be released to participate in unsupervised activities in the community, such as shopping, recreation and visiting friends.",1,6.666666667,37.33333333,5.75,134
+"In determining the question of whether the alleged obscene live conduct is utterly without redeeming social importance, you may consider the circumstances of production, presentation, sale, dissemination, distribution or publicity, and particularly, whether such circumstances indicate that the live conduct was being commercially exploited by the defendant for the sake of its prurient appeal.",1,6.75,41.625,6.314814815,394
+"This case comes before the Court on a ""Complaint to Recover Penalty"" by the Attorney General under Sections 17402 and 17402.1 of the Government Code of Guam.",1,6.75,31.75,4.851851852,157
+"In this appeal, appellant contends: (1) that Guam Criminal and Correctional Code §28.45 and §28.50 are unconstitutionally vague and overbroad, and the prosecution of the appellant thereunder violated her constitutional right to due process of law; and (2) the evidence presented against appellant was insufficient to sustain a conviction because the government failed to produce any evidence of the community standards of Guam; and (3) the evidence presented was insufficient to sustain a conviction because the jury was deprived of the opportunity to consider appellant's performance as a whole in reaching its determination as to whether or not she violated Guam's obscenity law.",1,6.866666667,37.6,5.621359223,681
+At issue is the regulation of speech.,0,7,30,4.428571429,37
+We now turn to appellant's contention that Guam's obscenity statute fails to comply with the specificity requirements of Miller v. California and is therefore unconstitutional on its face.,1,7,39.25,5.75,188
+Its predominant appeal is to prurient interest;,1,7,40,5.857142857,47
+It is utterly without redeeming social importance.,1,7,43,6.285714286,50
+On occasion she would leave Brenda unattended.,1,7,39,5.714285714,46
+"In other words the experience of the police with ""CRI"" was that he could be relied upon to give accurate information.",1,7,31.33333333,4.619047619,117
+The trial judge's dismissal of the complaint was based on a sovereign immunity defense.,1,7,36,5.285714286,87
+"However, no cases have been offered to support this novel theory of constructive notice, and, as the authority cited by the appellee makes clear, the jurisdictional requirements of government claims statutes must be strictly followed.",1,7,39,5.714285714,234
+"Thus, even if §139 were found to be void as urged, there is a basis for the award of child support.",1,7,25.33333333,3.761904762,99
+"There was a final hearing on January 18, 1980, where he was charged with possession of alcohol and antagonizing another inmate.",1,7,34.66666667,5.095238095,127
+That question is not before the Court.,1,7,31,4.571428571,38
+"""The rewriting of a statute for the purpose of bringing about a particular result is certainly not within the judicial function.""",1,7,35.33333333,5.19047619,129
+Does this violate his freedom of expression?,1,7,37,5.428571429,44
+"Unfortunately, there was some confusion at the October 25, 1975 hearing because it was only halfway through the proceedings that the Court was made to realize that the appellant had not been formally charged with the commission of another offense, i.e. by indictment or information, as required by the Code.",1,7.142857143,35.85714286,5.16,307
+"In that regard, you may consider evidence concerning the standards of any local community in Guam for such bearing, if any, as you may determine it has upon the question of what the territory-wide standard is.",1,7.2,33.8,4.833333333,209
+"The February 22, 1980 Order of the District Court, returning the petitioners to the Halfway House Facility, is not a ruling on the merits of the charges against them.",1,7.25,33.5,4.75862069,166
+"Because the tantamount language ""utterly without redeeming social importance"" is expressly a part of the Guam statute, the trial judge in the instant case was required, as was the trial judge in the instant case was required, as was the trial judge in Marks, to instruct the jury on this standard.",1,7.285714286,34.28571429,4.843137255,297
+"Certainly, minimum standards of due process require at least a few hours notice so that counsel may intelligently protect his client's rights.",1,7.333333333,39.33333333,5.5,142
+"""When a statute, either alone or in conjunction with another statute or statutes, infringes on constitutional rights, this court has an obligation to make every effort to salvage the statute by an appropriate exclusion so long as legislative intent will not be frustrated thereby.""",1,7.333333333,38.66666667,5.409090909,281
+(b) The transcript shall not be open to the public until ten days after the delivery to the defendant or his attorney.,1,7.333333333,31.33333333,4.409090909,118
+"This leaves, however, the question of whether or not the Government of Guam is a third party in relation to the plaintiff.",1,7.333333333,32.66666667,4.590909091,122
+"Although Government Code §6500.10 speaks of suing the Government of Guam as the exclusive remedy, this is a law of general applicability.",1,7.333333333,37.66666667,5.272727273,137
+"The Government Code of Guam, §§6500.00 et seq, provides for such waiver and §6500.05 of the Claims Act requires that all claims against the Government must be filed within six months from the date the claim arose.",1,7.4,34.4,4.783783784,213
+"Here none of the conditions enumerated in Sections 40.65, 40.70 and 40.75 of the Guam Criminal Procedure Code were present; thus the better course would have been for the Government to prepare an Order to Show Cause with timely notice of hearing, so that a complete and effective record could be prepared.",1,7.428571429,35.28571429,4.884615385,305
+c. possesses any obscene material with intent to distribute it is violation of this article;,1,7.5,38,5.2,92
+This matter came before the court on Plaintiff's motion for an order to show cause.,1,7.5,33.5,4.6,83
+It is the government's impropriety in the proceedings as well as the prejudice resulting therefrom.,1,7.5,41.5,5.666666667,99
+"Upon hearing all the oral arguments of both parties, this court ruled to reserve decision.",1,7.5,37,5.066666667,90
+"This Section does not, therefore, override the specific provisions of Government Code 37005 that make the Workmen's Compensation Law the exclusive remedy against the Government of Guam in some cases.",1,7.5,41.5,5.666666667,199
+"During the course of the trial, testimony of plaintiff's witnesses disclosed that at the time of the incident alleged in plaintiff's complaint, plaintiff was driving a car belonging to the Guam Power Authority, that his car was assigned to plaintiff for this work, and at the time of the incident, plaintiff was driving the car to its assigned parking space, pursuant to standing instructions of his employer, the Guam Power Authority, at the time of the incident upon which the complaint is based, plaintiff was within the scope of his employment.",1,7.583333333,37.16666667,5.032967033,548
+"In some jurisdictions it is required by statute that minutes of grand jury proceedings are to be kept, but are not to be revealed or to be made available, except to the court, prosecuting attorney, and persons to whom the court grants permission to inspect them, and, in the last instance, only upon notice to and after hearing the prosecuting attorney.",1,7.625,35.625,4.803278689,353
+"f. distributes or sends to, or exhibits or offers to distribute any obscene material to a minor under the age of eighteen years;",1,7.666666667,34.33333333,4.608695652,128
+"This Court ruled at the hearing on October 9, 1979 and in one subsequent order on October 14, 1979 as to certain counts.",1,7.666666667,31.66666667,4.260869565,120
+There is a certain danger in allowing off-the-record discussions to occur at any time and under any circumstances during official grand jury proceedings.,1,7.666666667,42.66666667,5.695652174,153
+"Obviously prison administrators have great discretion in supervising prisoners; however, it is only when a prisoner's actions might reasonably endanger prison security or the safety of the public in general, that a prisoner's vested rights may be temporarily suspended prior to a full and adequate hearing.",1,7.666666667,42.5,5.673913043,306
+"This is a consolidation of interlocutory appeals taken from the Superior Court's denial of appellants' Motions to Dismiss indictments brought against them by the Territorial Grand Jury on February 8, 1979.",1,7.75,42.75,5.64516129,205
+"Plaintiff, on oral argument, stated that the challenged documents were submitted for the purpose of estopping the Government from asserting as a defense the untimely filing of plaintiff's claim and action.",1,7.75,42.75,5.64516129,205
+we now confine the permissible scope of .,0,8,33,4.25,41
+"As indicated by the order of publication issued December 18, 1979, the court allowed a two",0,8,36.5,4.6875,90
+"He was prevented from doing so by one of the club's waitresses, who informed him that taking pictures in the club was not permitted.",1,8,35.33333333,4.541666667,132
+The judgment of the Superior Court is AFFIRMED.,1,8,39,5,47
+She was gyrating her pelvis in and out.,1,8,31,4,39
+"There is no question that all of the appellants had performed satisfactorily as teachers; however, their contracts were not renewed in a timely manner.",1,8,41.66666667,5.333333333,151
+"Thus, before reaching any federal constitutional issue, this Court must first decide the effect under Guam law of these two statutes when read together.",1,8,42,5.375,152
+It therefore appears that Mr. Cate would not be liable for any of the present judgment.,1,8,35,4.5,87
+"In this respect, a 1977 decision from the Court of Appeals of Arizona is particularly instructive.",1,8,40.5,5.1875,98
+This court will now consider each motion separately.,1,8,44,5.625,52
+This case came before the court for trial.,1,8,34,4.375,42
+Plaintiff did not willfully cause his own injury.,1,8,41,5.25,49
+"IT IS HEREBY ORDERED that defendant's motion to quash is DENIED, and that defendant file an answer herein with 30 days of this order.",1,8,35.66666667,4.583333333,133
+"Based on the evidence before it, the jury could have inferred that the appellant's performance would have been obscene irrespective of its context, and returned a verdict of guilty based on that inference.",1,8.25,42.25,5.242424242,205
+"But the statute is explicit in its statement that the grand jury proceedings are to be recorded, and no allowance is made for off-the-record discussions during the course of the grand jury proceedings.",1,8.25,41.25,5.121212121,201
+"* * * The county clerk shall deliver the original of the transcript so filed with him to the district attorney immediately upon his receipt thereof, shall retain one copy for use only by judges in proceedings relating to the indictment or accusation, and shall delivery a copy of such transcript upon each such defendant or his attorney.""",1,8.285714286,39.14285714,4.844827586,338
+h. performs an obscene act or otherwise presents an obscene exhibition of his body in public place.,1,8.5,40.5,4.882352941,99
+"Be that as it may, this does not alter the original information presented to the issuing magistrate.",1,8.5,41,4.941176471,100
+"1 During the course of the trial, the plaintiff's proof having established that plaintiff was within the scope of his employment at the time of the incident, the court itself raised the issue of whether or not this action was barred under the Workmen's compensation Law, Government Code Sections 37000 et.",1,8.5,41.5,5,305
+"Defendant bases her motion on the inconsistencies arising between the original summons mailed to her November 16, 1979 pursuant to the original complaint, and the summons she subsequently received December 31, 1979 mailed pursuant to plaintiff's amended complaint and order of the court for service by publication issued December 18, 1979.",1,8.5,47.16666667,5.666666667,339
+"Therefore, defendant shall be allowed an additional period within which to file her answer in this case.",1,8.5,43,5.176470588,104
+"Root was returned to the Adult Main Facility sometime around March 26, 1978, and he was put into solitary confinement without the benefit of a hearing.",1,8.666666667,41,4.846153846,151
+"Finally, the Government contends that the Director does not have the authority to transfer prisoners out of the Adult Main Facility to participate in work-release program, citing to §39100.2 and §55015 of the Government Code (providing that no prisoner at the Adult Main Facility shall be allowed to participate in any extramural program without the express order of the parole board).",1,8.714285714,45.42857143,5.327868852,385
+"The Affidavit in support of the subject Search Warrant recited that ""CRI"" was known to affiant police officer to be reliable because he had made two previous buys of narcotics under affiant's supervision and control.",1,8.75,44.5,5.2,216
+"Having read the Opinion in this appeal, I hereby concur with the result reached by the Superior Court's dismissal of plaintiff's action for failure to comply with the Government of Guam Claims Act be affirmed.",1,8.75,42.75,5,209
+"With regard to the Best Evidence argument, where an original is unobtainable, or within the control of the party opponent, the Rule creates an exception for the introduction of copy in lieu of the original.",1,8.75,42,4.914285714,206
+"The Miller cases, important as they were in enunciating a constitutional test for obscenity to which a majority of the Court subscribed for the first time in a numbers of years, were intended neither as legislative drafting handbooks or as manuals of jury instructions...",0,8.8,44.6,5.181818182,271
+"Appellants' claim for relief is based on a 1972 Three-Year Collective Bargaining Agreement which provides that all off-island teachers whose performance had been rated satisfactory would be offered similar reemployment by March 1 of the teacher's termination year, so long as the government of Guam policies provide for such hiring of teachers .",1,8.833333333,47.83333333,5.528301887,345
+Section 28.50 of the Code provides in relevant part:,0,9,43,4.888888889,52
+e. presents or directs an obscene performance or participates in that portion thereof which makes it obscene; or,0,9,46.5,5.277777778,112
+regulation to works which depict or describe sexual conduct.,0,9,51,5.777777778,60
+e. presents or directs an obscene performance or participates in that portion thereof which makes it obscene; or,0,9,46.5,5.277777778,112
+"When the verdict of a jury is challenged, the general rule of applicability is that its verdict must be sustained if there is substantial evidence, taking the view most favorable to the Government, to support it.",1,9,43.25,4.916666667,212
+h. performs an obscene act or otherwise presents an obscene exhibition of his body in a public place.,1,9,41,4.666666667,101
+The controlling community is the entire territory of Guam.,1,9,49,5.555555556,58
+"First, Civil Code §138 provides a basis for the award of child support which is not sex based.",1,9,37.5,4.277777778,94
+"Such an inquiry may lead a court into examination of legislative purpose, the overall statutory scheme, statutory arrangements in connected fields and the needs of the public.",1,9,48.66666667,5.518518519,175
+"As regards the authenticity of the papers, unless there exists serious doubt as to the validity of the duplicate submitted, copies will be accepted by the Court.",1,9,44,5,161
+"At the time said order was issued, the Government did not make any objection to the blanket prohibition.",1,9,42.5,4.833333333,104
+"This much is clear, plaintiff is clearly an employee",1,9,43,4.888888889,52
+"The Government has failed to show any justification for not conducting an adequate hearing before petitioners' actual removal from the work-release program, and for not affording petitioners their full due process rights at such a hearing.",1,9,50,5.666666667,239
+Truly this section does not regulate with narrow specificity.,1,9,52,5.888888889,61
+"Thus, protection of the morals of the public might have been an additional reason for enacting the statute.",1,9,44,5,107
+"Further, while we are not aware of the nature of the off-the-record discussions, we find it necessary to add that, although it is the role of the prosecutor to draw such indictments as the grand jury directs, he may not give advice as to the sufficiency or insufficiency of the evidence in any matter, nor may he in any way seek to influence the grand jury to find or not to find any indictment, nor may he take part in any of the grand jury's deliberations, as these are all matters wholly within the exclusive province of the grand jury.",1,9.090909091,39,4.4,539
+"The public interests being an ""...increased awareness of the content or message contained in signs used by island businesses for advertising purposes by the English and Chamorro speaking population for the purpose of greater patronizing of such places of business, and the strengthening of the island economy by capturing the attention of English speaking tourists and the predominantly English and Chamorro consumer on Guam.""",1,9.142857143,50.85714286,5.671875,426
+"When circumstances of production, sale, dissemination, distribution, or publicity indicate that material or a performance is being exploited by the defendant for the sake of its prurient appeal, evidence of such circumstances is admissible in a prosecution under this article upon the upon question whether the material or performance is utterly without redeeming social importance.",1,9.166666667,53.66666667,5.963636364,382
+Appellant was charged with the misdemeanor offense of presenting an obscene performance by parting her vulva with her hands while lying down on stage in violation of §28.50 of the Guam Criminal and Correctional Code [9 GCA].,1,9.25,46,5.081081081,224
+"Having failed to provide proper answers to the requested interrogatories specifically relating to the ""Letter of Understanding"", this Court finds the Government is forthwith precluded from using such information in support of its motion for summary judgment.",1,9.25,54.5,6,258
+"We find that it would be inconsistent with notions of due process, and therefore inconceivable as in inference, to interpret the Court's meaning to be that an obscenity statute currently active in a State's law may or may not be constitutional, depending solely on whether it was enacted prior to or after the decision in Miller.",1,9.333333333,44.66666667,4.892857143,329
+"Though the test is imprecise, a court must weigh the general interest in retaining the statute against the court's reluctance to extend legislation to those not previously covered.",1,9.333333333,50,5.464285714,180
+"This Court, after reviewing the order, agrees that the intent of said order is to provide a blanket prohibition on the use of any information not properly answered.",1,9.333333333,44.66666667,4.892857143,164
+"It goes substantially beyond customary limits of candor in the description or representation of nudity, sex or excretion; and",0,9.5,52.5,5.631578947,125
+"The term utterly without redeeming social value or importance, as used in these instructions, means that the alleged obscene matter must be totally devoid of any redeeming literary, scientific of artistic value or any other of social importance.",1,9.5,51,5.473684211,245
+"Granted, we are not able to say with any certitude that appellants were in fact prejudiced by these discussions.",1,9.5,46,4.947368421,112
+"If plaintiff is not an employee of the Government of Guam, then §37005 is no bar to this action.",1,9.5,38,4.105263158,96
+"Even the prospect of ultimate failure of such prosecutions by no means dispels their chilling effect on protected expression.""",1,9.5,53,5.684210526,126
+"This is not to minimize the seriousness of the offenses charged; however, benefits afforded a prisoner on a work-release program are similar to those of a prisoner on parole, thus requiring greater rights to a hearing than might normally be associated with general prison discipline and administrative procedures.",1,9.6,52.2,5.541666667,313
+Section 28.45 of the Guam Criminal and Correctional Code states:,0,10,54,5.5,64
+Section 28.50 of the Guam Criminal and Correction Code states:,0,10,52,5.3,62
+"On September 20, 1979 based upon an application by the",0,10,44,4.5,54
+"It is evident that the Court felt existing state obscenity laws which were otherwise constitutionally valid would continue to be valid, either as written or construed, in the indeterminate future.",1,10,54.66666667,5.566666667,196
+Only if it was not does the issue of statutory construction as applied to appellant's conduct become viable for review.,1,10,49,5,119
+What did you observe Miss Daly do on the stage?,1,10,37,3.8,47
+"Department of Public Health and Social Services, a temporary removal order was made and Brenda was placed in foster care.",1,10,50,5.1,121
+The testimony before the Judge issuing the search was in a little more detail about the controlled buy at Rico's.,1,10,46,4.7,113
+The Court finds Mr. Cate could be held liable only for the April and May billings and the installation charge.,1,10,44.5,4.55,110
+IT IS ORDERED that the Motion for Dismissal is Denied.,1,10,44,4.5,54
+"This being the law, we find merit in appellants' claim of possible prejudice arising from the failure of the Territorial Grand Jury to record all of the proceedings before them.",1,10,48.33333333,4.933333333,177
+"Although the Fund may recoup these payments from the Authority on an annual basis pursuant to this Section, the liability for Workmen's Compensation payments is upon the Government of Guam.",1,10,52.33333333,5.333333333,189
+The case cited by plaintiff in this regard are unpersuasive.,1,10,50,5.1,60
+No such burden exists in cases involving First Amendment rights.,1,10,54,5.5,64
+"Furthermore, this Court cannot change the law under the guise of construction so as to only apply to business entities.",1,10,49,5,119
+This is an interlocutory appeal after the Trial Court granted Defendant's motion to suppress a firearm which was seized after a search warrant was issued for the search of Defendant's house.,1,10.33333333,52.33333333,5.161290323,190
+There is no question that appellants' claims were not filed within this time period and that no information was supplied to the Attorney General as outlined in §6500.03 of the Act.,1,10.33333333,49,4.838709677,180
+"The Order was issued so that petitioners' partially vested rights could be reestablished fully, pending a fair and adequate hearing seeking to divest any such rights to work on the outside.",1,10.33333333,52,5.129032258,189
+"The Government's Complaint alleges that Defendants, owners of a store on San Vítores Road in Turnon Bay violated §17402 by displaying signs in Japanese without a translation into English or Chamorro.",1,10.33333333,55.33333333,5.451612903,199
+"In a prosection under this article, the question whether the predominant appeal of material or of a performance is to prurient interest shall be determined with reference to average adults, unless it appears from the nature of the material or performance, or from the circumstances of its dissemination, distribution, or exhibition, that it is designed for a clearly defined deviant sexual group or for children, in which case the question of predominant appeal shall be determined with reference to the intended recipient group.",1,10.375,54.875,5.385542169,529
+"In order to find that live conduct is obscene, each of the following elements must be proved, and there are five:",0,10.5,45.5,4.428571429,113
+"This condensed statement of the contents of the Affidavit is sufficient to point out that ""CRI"" had given information to the police concerning two buys before the one at Rico's house and furnished information which had never been found to be inaccurate.",1,10.5,52,5.047619048,253
+"If such discussions are allowed, it would be impossible for the defendant, or for a court sitting in review of alleged impropriety in the proceedings, to determine with specificity what testimony or other statements were considered in the return of an indictment.",1,10.5,54.5,5.285714286,263
+"(a) If an indictment is returned against a defendant, the reporter shall transcribe the grand jury proceedings and shall certify and deliver to the clerk of the court the original transcript and a copy thereof for the prosecuting attorney and each defendant.",1,10.5,53.25,5.166666667,258
+"This Memorandum Order follows a February 22, 1980 Order of the District Court which required the immediate return of Petitioners STRAUSS, ROOT, SANTOS and REYES to the Halfway House Community Correctional Facility from which they were transferred without due process of law.",1,10.5,57.25,5.547619048,274
+There can be little doubt that Civil Code §139 is exactly the sort of law condemned as a violation of the equal protection of the laws by Orr v. Orr 99 S.Ct.,1,10.66666667,41,3.9375,157
+"The general rule regarding the recording of grand jury proceedings is that, in the absence of statute, the grand jury is not required to transcribe or record the proceedings brought before it.",1,10.66666667,52.66666667,5.03125,192
+"Strauss was returned to the Adult Main Facility on December 5, 1979, where at a preliminary hearing the charges were read to him and he was asked how he wanted to plead.",1,10.66666667,45,4.3125,169
+"If the State has open to it a less drastic way of satisfying its legitimate interests, it may not choose a legislative scheme that broadly stifles the exercise of fundamental personal liberties.""",1,10.66666667,53.66666667,5.125,195
+"If, after setting aside any material that is the subject of the charge of falsity or reckless disregard of the truth, there is sufficient content in the warrant affidavit to support a finding of probable cause, an evidentiary hearing is not even required.",1,10.75,52.25,4.953488372,255
+"Similar to the provisions of the California Penal code cited in McMahon are those incorporated in Guam Criminal Procedure Code, § 50.38:",0,11,56.5,5.227272727,136
+"We emphasize that the performance must not only have social importance to be constitutionally protected, but that the social importance must be sufficient to redeem the obscene, or unprotected part of the performance.",1,11,60.66666667,5.606060606,217
+The factual situation in this case is sufficient grounds for termination.,1,11,62,5.727272727,73
+"After the search warrant was issued, a search of Defendant’s house produced no narcotics but a firearm was found in the house.",1,11,51.5,4.772727273,126
+The Order granting the motion to suppress the weapon is REVERSED.,1,11,54,5,65
+"For reasons set forth in the order in the cited case,",1,11,42,3.909090909,53
+The departures from this rule and the variations thereof are many.,1,11,55,5.090909091,66
+"While the facts are different in each of the above-captioned cases, there can be no question that each Petitioner was removed from the Work Release Program of the Department of Corrections and returned to the Guam Penitentiary, Adult Main Facility without a proper hearing.",1,11,56.5,5.227272727,273
+He is eligible for leaves to renew contacts with his family.,1,11,49,4.545454545,60
+A defendant must respond prior to the expiration of the order.,1,11,51,4.727272727,62
+Appellant's final contention is that the evidence presented at trial was insufficient to sustain a conviction because the jury was deprived of the opportunity to consider appellant's performance as a whole in reaching its determination as to whether or not appellant violated Guam's obscenity law.,1,11.25,62.25,5.622222222,297
+"We hold that this charge to the jury was sufficient and proper, and find no merit in appellant's attack on the failure of the Government to produce evidence of the community standards of Guam.",1,11.33333333,52,4.676470588,192
+The government maintains that the indictments should not be dismissed because of two off-the-record discussions in the absence of a showing as to the nature of the discussions and prejudice accruing to the appellants.,1,11.33333333,60.33333333,5.411764706,217
+"The argument, however, is that the definition of obscenity under Miller is a completely separate requirement from the requirement of a specific definition of the sexual conduct being prohibited, and that any construction of the Guam statute to include the Miller specificity requirements is unconstitutional because the construction could only have been made subsequent to appellant's arrest.",1,11.4,66.2,5.894736842,392
+"""So long as the statute remains available to the State the threat of prosecutions of protected expression is a real and substantial one.",0,11.5,56,4.956521739,136
+Appellant also contends that judicial interpretation of the Guam obscenity statute to include the Miller specificity requirements does not rectify the statute's unconstitutionality.,1,11.5,78.5,6.913043478,181
+"This contention is premised on the proposition that the Guam statute is facially defective, a proposition with which we are not in agreement.",1,11.5,58.5,5.173913043,141
+"On February 5, 1976, the appellants sued the government of Guam on a cause of action alleging that the Government's failure to renew their teaching contracts was in violation of a 1972 collective bargaining agreement between the Department of Education and the Guam Federation of Teachers.",1,11.5,60,5.304347826,289
+"The record on appeal does not disclose the contents of the discussion held off the record, or the circumstances attendant to that discussion.",1,11.5,58.5,5.173913043,141
+"In an alternative context, appellant contends that even if judicial interpretation of the Guam obscenity statute to include the specificity requirements is valid, such construction does not cure the constitutional defect as applied to appellant.",1,11.66666667,69.33333333,6.028571429,245
+"The trial judge erroneously substituted his own view of the facts for that of the issuing officer after taking evidence which was not relative to the issue of the reliability of ""CRI"" as an informant.",1,11.66666667,54.33333333,4.742857143,200
+"Strauss was then put in closed confinement for approximately a week where he was restricted to his cell for twenty-four hours a day, except for a half hour to take a shower and fresh air.",1,11.66666667,50,4.371428571,187
+"With receipt of the above instructions, the jury was sufficiently appraised of the more restrictive burden on the government than that required by Miller.",1,12,64.5,5.458333333,154
+"Thus, it is required in Guam that a transcript be made and that copies be provided for both the prosecuting attorney and each defendant.",1,12,55.5,4.708333333,136
+"He was immediately placed in closed confinement until a hearing on December 13, 1978 when he was found guilty of fighting with another inmate.",1,12,58.5,4.958333333,142
+"However, assuming that these sections apply to the petitioners, it would seem that the Director conversely has no authority to remove prisoners from the Halfway House Correctional Facility without the express approval of the parole board.",1,12,66.66666667,5.638888889,238
+It would seem inequitable for this court to bind defendant to the two (2) month requirement for response when due in part to clerical error by the clerk the summons was served in a defective state.,1,12,53,4.5,197
+"Additional moral justification may have been due to the complaints by numerous Japanese tourist that some of these signs contained offensive or shocking language.""",1,12,69,5.833333333,163
+"The constitutional standards provided in Miller and its attendant cases are those which are applicable to the issues raised in this appeal, and it is on this basis that we proceed in our review of appellant's contentions.",1,12.33333333,60.66666667,5,221
+"As developed above, the removal of a prisoner from a work-release program can result in a grievous loss of employment and certain due process standards attach to protect these rights to participate in the Step IV program.",1,12.33333333,60.66666667,5,221
+"Plaintiff contends that even if a defect were to exist in the summons, over 100 days have since elapsed and as yet defendant has not filed a response, thus inferring that any response now would be untimely.",1,12.33333333,55.66666667,4.594594595,206
+"If the warrant issued upon a showing of fact which was inherently incredible or false or deliberately misleading, the warrant was issued without probable cause.",1,12.5,67,5.44,160
+The Court finds §17402 of the Government Code of Guam to be an unconstitutional infringement upon a citizen's First Amendment right to freedom of speech.,1,12.5,63.5,5.16,153
+"Where the court is faced with two interpretations, one of which would hold the statute wholly void and the other of which would uphold the statute, it is clear that the legislative intent must be the latter interpretations.",1,12.66666667,61,4.894736842,223
+"The Court cited laws enacted in Oregon and Hawaii as examples of state laws directed at depiction of specifically defined physical conduct, as opposed to expression.",1,13,69,5.384615385,165
+He admits that he personally applied for the telephone on the company's behalf and he asserts that he cancelled the phone when leaving two months later.,1,13,62.5,4.884615385,152
+"It has been held in at' least one jurisdiction that a criminal defendant is under certain circumstances constitutionally entitled to some part of a grand jury transcript, and that under its rule-making power a court may amend existing Criminal Procedure Rules to require the recording of all evidence before the qrand jury.",1,13,67,5.230769231,323
+The better practice is to record all proceedings had before the grand jury.,1,13,62,4.846153846,75
+The Court asked for argument on this point and the issue was briefed.,1,13,56,4.384615385,69
+"""... that nowhere in the statute was it stated that only such testimony before a grand jury which was used as the basis for the return of the indictment should be reported and transcribed; that a defendant who has been indicted by a grand jury is entitled to have a transcript of the testimony of all witnesses who testified before it during the course of an investigation which culminated in the indictment; and that any evidence produced before and",0,13.16666667,61,4.708860759,450
+"That all permitted signs are illegal per se if not in English or Chamorro or without a translation into either, is contradictory to the most basic right of a democratic society - the First Amendment right to freedom of speech.",1,13.33333333,61.33333333,4.675,226
+g. employs or uses a minor under the age of eighteen years to do or assist in doing any of the acts described in this section; or,0,13.5,50.5,3.814814815,129
+"While we acknowledge that the language of the Guam statute is in large part archaic, we do not find that it is on that basis alone unconstitutional.",1,13.5,60,4.518518519,148
+"Elsewhere, a court may require production of minutes of grand jury proceedings upon a showing that there is a particularized need or compelling necessity for such disclosure.",1,13.5,73,5.481481481,174
+"But we are not willing to speculate that they were not, nor should a defendant be asked to guess and be burdened with proving that he was.",1,13.5,55,4.148148148,138
+"No indictment or information has been filed against the appellant, and there is nothing to show that any condition of release has been willfully violated by the defendant.",1,14,71,5.142857143,171
+Appellants also argue that the sovereign immunity doctrine does not prevent litigants from seeking equitable relief compelling government officials to perform their duties properly (in this case requiring the Department of Education to issue contracts which become effective retroactively with full pay).,1,14,86.66666667,6.261904762,304
+It is undisputed that plaintiffs did not submit this claim to arbitration and screening.,1,14,74,5.357142857,88
+Too often grand juries are criticized for being mere rubber stamps of the prosecution.,1,14,72,5.214285714,86
+"""If an indictment has been found or accusation presented against a defendant, such stenographic reporter shall certify and file with the county clerk an original transcription of his shorthand notes and a copy thereof and as many additional copies as there are defendants.",1,14.33333333,75.66666667,5.348837209,272
+"Although the Government tried to argue that the Complaint filed against the accused was sufficient for the Superior Court to have revoked his bail, Section 1.17 of the Guam Criminal Procedure Code clearly states that an information may not be filed until there has been a preliminary examination and an order holding defendant to answer under Section 45.80.",1,14.5,74,5.172413793,357
+It is clear that sovereign immunity applies to specific performance actions against the Government; otherwise the government cannot operate effectively if its every act is subject to injunctive actions.,1,14.5,86,6,202
+"Any material or performance is obscene if considered as a whole, applying contemporary community standards:",0,15,92,6.2,107
+"Any material or performance is obscene if considered as a whole, applying contemporary community standards:",0,15,92,6.2,107
+The petitioners in Marks were indicted for conduct occurring prior to the decision in Miller.,1,15,78,5.266666667,93
+The legal definition of obscenity does not change with each indictment; it is a term sufficiently definite in legal meaning to give a defendant notice of the charge against him.,1,15,73,4.933333333,177
+We find that they were and we reverse the Order granting the motion to suppress.,1,15,65,4.4,80
+The Trial Court did not find (nor is there anything in the record to so indicate) that there is a false statement in the affidavit or testimony of Officer Klinge or that Klinge demonstrated reckless disregard for the truth which would require an evidentiary hearing.,1,15,73,4.933333333,266
+There is a presumption of validity with respect to the affidavit supporting the search warrant.,1,15,80,5.4,95
+"Affidavit for search warrants must be tested and interpreted by magistrates and courts in a common sense and realistic fashion, and technical requirements of elaborate specificity are no longer required.",1,15,86,5.8,203
+"Although plaintiff has no record of the cancellation the testimony received indicates that a record of the cancellation might not have been made or if made, might have been destroyed.",1,15,76,5.133333333,183
+"In some cases the gravity of certain offenses could justify the disciplinary removal of a prisoner from work release prior to a full hearing; however, no exigent circumstances to justify such removal have been shown by the Government to exist in the cases at bar.",1,15,72,4.866666667,263
+The Court of notes that this statute applies to commercial as well as noncommercial speech.,1,15,76,5.133333333,91
+"While the Superior Court might have had the power to automatically revoke the defendant's release on bail if the above conditions had been satisfied, the record makes it clear that the Superior Court based its revocation on the mere fact that a complaint had been filed.",1,15.33333333,74,4.891304348,270
+"Plaintiff then orally moved the court to prohibit the Government from using any information which the defendant was precluded from using pursuant to order of the court dated September 11, 1979.",1,15.5,80.5,5.258064516,193
+DEFENDANT'S MOTION TO STRIKE The Government contends that its motion is supported by Rule 408 of the Rules of Evidence which prohibits the admission of evidence of compromise to prove liability.,1,15.5,81,5.290322581,194
+"Plaintiff does not seek to establish that the documents of compromise are an admission of liability on the part of the Government, but merely that negotiations were ongoing they are admissible.",1,15.5,80.5,5.258064516,193
+"It is now argued by the Government that it is not utilizing any information precluded by the order, but is relying only on information contained it its answer to the complaint.",1,15.5,72,4.709677419,176
+"The defendant interposed as a defense to the granting of such a motion that §139 of the Civil Code which provides for the payment of child support by fathers, but not by mothers, is a violation of equal protection of the law on the basis of sex.",1,15.66666667,65.33333333,4.234042553,245
+"Your own personal, social or moral views on material such as that shown in the complaint may not be considered for purposes of determining the obscenity of the material here in question.",1,16,76.5,4.84375,186
+"Appellee concedes that hearsay evidence may properly be considered by a magistrate in issuing a search warrant, so long as there is a substantial basis for believing the hearsay to be credible.",1,16,80,5.0625,193
+No evidence was presented by the Department of Corrections to suggest that there were exigent circumstances which would justify the removal of the petitioners from the work-release hearing without a prior hearing.,1,16,90,5.6875,213
+Appellant's next contention is that the evidence presented against her at trial was insufficient to sustain a conviction in that the Government failed to produce any evidence of the community standards of Guam.,1,16.5,88,5.393939394,210
+"It is not beyond the discretion of this Court to interpret a summary judgment proceeding as part of the overall trial, and therefore to interpret such a prohibition as applicable to such proceeding.",1,16.5,82,5.03030303,198
+"On July 16, 1980 Defendants moved the Court for a Judgment on the Pleadings asserting inter alia that §17402 is unconstitutional because the wording is vague and could lend itself to Overbroad interpretation.",1,16.5,87,5.333333333,208
+Section 28.50 of the Guam Code provides that a person is guilty of a misdemeanor if he:,0,17,70,4.176470588,87
+"While there can be no question that Miller requires sexual conduct to be specifically defined by the applicable law, we believe that appellant misconceives the exactitude with which such specificity is to be defined.",1,17,90.5,5.382352941,216
+"This Court believes that the order of September 11th clearly circumvents this argument, and that said order is an unconditional prohibition upon the Government from using any information relating to questions not properly answered.",1,17,98,5.823529412,231
+Rather it has the potential to intrude upon the very first of the Amendments of the Constitution.,1,17,80,4.764705882,97
+"After reading the affidavit and the transcript of the testimony of Officer Klinge, we find that the information",0,18,93,5.222222222,111
+A quotation from Voltaire in the flyleaf of a book will not constitutionally redeem an otherwise obscene publication.,1,18,99,5.555555556,117
+Barbara had taken her baby to the Guam International Airport and had abandoned the baby in the restroom.,1,18,86,4.833333333,104
+Roy Cate was brought to Court to be examined as to his assets for payment of the judgment.,1,18,72,4.055555556,90
+"The law in the Territory of Guam provides for equally liberal recordation and disclosure of grand jury proceedings, including the affirmative duty of delivering a copy of the original transcript to each defendant or his attorney.",1,18,96,5.388888889,229
+The language of the court in Pipes is equally appropriate to the matter now on appeal before this Court.,1,19,85,4.526315789,104
+"Where it appears clearly from the tenor of the statute that employees of the Authority are employees of the Government, and the Legislature specifically exempts certain people from the operation of the statue, it is strong evidence that the",0,19.5,100,5.179487179,240
+"After entering the club, Duran and Sabían sat at a table which was located approximately ten to fifteen feet in",0,20,91,4.6,111
+"No where in the Guam Criminal Procedure Code does the mere filing of a complaint empower the court to take such action, and the Superior Court must be charged with uniformly applying all section of the Guam Criminal Procedure Code.",1,20,95,4.8,231
+The Court bases its decision upon the sufficiency of the summons mailed in December pursuant to the order for publication.,1,20,102,5.15,122
+Further the possibility that different juries might reach different conclusions as to the same material does not render a statute unconstitutional.,1,21,126,6.047619048,147
+"When the affidavit is not based on direct personal observation of the affiant, the judge issuing the search warrant must be informed of some of the underlying circumstances from which the affiant concludes that the informant is credible or his information reliable.",1,21,111,5.333333333,265
+Of course it is for the judge authorizing the warrant to find the facts from the evidence submitted in affidavit form.,1,21,97,4.666666667,118
+The court will not consider the sufficiency of the summons mailed November which was not directed by the court for publication.,1,21,106,5.095238095,127
+"As noted above, after an evidentiary hearing the trial court found as a fact that the previous buy at Rico's house 36 hours before seeking a warrant was not made under such strict supervision of the police that it provided probable cause for",0,21.5,98.5,4.627906977,241
+"As noted above, after an evidentiary hearing the trial court found as a fact that the previous buy at Rico's house 36 hours before seeking a warrant was not made under such strict supervision of the police that it provided probable cause for",1,21.5,98.5,4.627906977,241
+"""It is generally believed that one of the reasons the statute was enacted was to regulate the many businesses on Guam which have signs entirely in a language other than English or Chamorro that were reported to be advertising pornographic materials for sale.",1,21.5,107,5.023255814,258
+"Appellants contend that the notice requirements under the Claims Act were substantially complied with because plaintiffs followed the grievance procedures contained in Article IV of the 1972 Collective Bargaining Agreement, thus giving the Government at least indirect notice of their desire to bring suit.",1,22,130.5,5.977272727,306
+The Court finds his liability extended only to the period of time he was employed as a broker for Pacific Realty Company.,1,22,99,4.545454545,121
+It is unthinkable that the Legislature would have intended the Authority to be other than an instrumentality of the Government of Guam.,1,22,113,5.181818182,135
+The Court is not deciding whether or not the Government may constitutionally require commercial signs to be translated into English or Chamorro.,1,22,122,5.590909091,144
+Careful consideration has been given as to whether §17402 is more inclusive or more burdensome than necessary to further legitimate government purposes.,1,22,130,5.954545455,152
+"Since Miller permits the imposition of a lessor burden on the prosecution in this phase of the proof of obscenity than did Memoirs,",0,23,108,4.739130435,131
+"We find that the language of the statute provided appellant with adequate notice of the illegality of her conduct, and that therefore it is not incumbent upon us to reach the propounded issue of whether the statute was unconstitutional as construed to apply to appellant’s conduct.",1,23,117,5.130434783,281
+The sole issue before us is whether the affidavit and the testimony given to the judge issuing the search warrant were legally sufficient.,1,23,115,5.043478261,138
+Defendant Boonprakong moved for dismissal of this action because it fails to state a claim against him upon which relief can be granted.,1,23,113,4.956521739,136
+Judge Benson ruled that the statute in question deprives the parties of their right to trial by jury guaranteed by the Organic Act.,1,23,108,4.739130435,131
+The clerk shall file the original transcript and immediately deliver a copy to the prosecuting attorney and to each defendant or his attorney.,1,23,119,5.217391304,142
+The uncontradicted testimony of Root and Reyes suggest that the right to confront and produce witnesses was limited when their cases were heard.,1,23,121,5.304347826,144
+The case number of the subsequent complaint filed against the defendant was not even made part of the record during the Superior Court hearing.,1,24,119,5,143
+This Court finds that Rule 408 creates an exception for the admissibility of evidence otherwise inadmissible if offered for purposes other than to prove liability.,1,25,138,5.56,163
+14-83 is null and void with respect to all grants and appropriations made by the United States to the government of Guam where the grant or appropriation provides one hundred percent of the funding for a specific project or purpose and which grant or appropriation makes no provision for local legislative control.,1,26,130.5,5.057692308,314
+Such evidence is probative with respect to the nature of the conduct and can justify the conclusion that the conduct is utterly without any redeeming social importance.,1,27,141,5.259259259,168
+The reporter shall complete such certification and delivery within ten days after the indictment is returned unless the court for good cause makes an order extending time.,1,27,144,5.37037037,171
+The Organic Act of Guam empowers the local legislature to waive sovereign immunity in tort and contract actions against the Government to the extent which it deems desirable.,1,28,146,5.25,174
+It was only after the Trial Court took additional testimony at the hearing to suppress that it found the Rico residence is located where numerous other dwelling houses were located.,1,30,151,5.066666667,181
+The charges brought against Strauss had to do with an incident occurring around Thanksgiving when he called a local newspaper to complain about the fact that certain holiday furloughs had been cancelled.,1,32,171,5.375,203
+Appellant argues that the examples set forth in Miller describe sexual conduct while the Guam statute does not provide any definition or any example of what forms of sexual conduct are being regulated.,1,33,168,5.121212121,201
+We also recognize that the search for guidance in separating unprotected obscenity from other sexually oriented but constitutionally protected forms of expression has historically been one of the more difficult tasks of reviewing courts.,1,34,203,6,237
+The determination of whether matter is obscene is not to be made by weighing its social value or importance against its alleged prurient appeal for it is not obscene unless it is utterly without social value or importance.,1,38,184,4.868421053,222
+Thereafter the transcript shall be open to the public unless the court orders otherwise on its own motion or on motion of a party pending a determination as to whether all or part of the transcript should be sealed.,1,39,176,4.538461538,215
+The Court has a duty to uphold Constitutional rights and to take a staunch position to protect them at the earliest opportunity so as to allow the legislature to correct any deficiencies by narrowly redrafting a statute restricting any such right.,1,41,206,5.048780488,247
+If the copy of testimony is not served as provided in this section the court shall on motion of the defendant continue the trial to such time as may be necessary to secure to the defendant receipt of a copy of such testimony ten days before such trial.,1,48,204,4.270833333,252
+The following facts were adduced at trial:,0,9999,9999,5.142857143,42
+Memoirs was not rejected because it was so vague as to deprive criminal defendants of adequate notice but because it represented a departure from prior definitions of obscenity,0,9999,9999,5.321428571,176
+Ill,0,9999,9999,3,3
+The Court in Hamling reconfirmed its renunciation of a rigid standard:,0,9999,9999,5.454545455,70
+We also recognize that it is probable that appellant had not completed,0,9999,9999,4.916666667,70
+A person is guilty of a misdemeanor if he knowingly or recklessly:,0,9999,9999,4.583333333,66
+A person is guilty of misdemeanor if he knowingly or recklessly:,0,9999,9999,4.909090909,64
+that all States,0,9999,9999,4.333333333,15
+CONCURRENCE,0,9999,9999,11,11
+It reads as follows:,0,9999,9999,4.25,20
+Not only were,0,9999,9999,3.666666667,13
+The significance of this fact is that the extent of permissible regulation greatly,0,9999,9999,5.384615385,82
+Neither the prosecution nor the defense shall be required to introduce expert witness testimony concerning the obscene character of the material,1,9999,9999,5.904761905,144
+Footnote:,1,9999,9999,9,9
+Footnotes:,1,9999,9999,10,10
+DECISION AND ORDER,1,9999,9999,5.333333333,18
+DECISION,1,9999,9999,8,8
+DECISION AND ORDER,1,9999,9999,5.333333333,18
+DECISION AND ORDER,1,9999,9999,5.333333333,18

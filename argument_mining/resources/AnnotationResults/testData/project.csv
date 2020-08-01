@@ -1,0 +1,84 @@
+project_id,name,description,guideline,created_at,updated_at,project_type,randomize_document_order,collaborative_annotation,polymorphic_ctype_id
+10,ArgumentMining-Tiffany,"Law Cases sentence classification.
+Relevant parts, as indicated from law school study-guides for case-briefs are: 
+1.Facts (including parties, jurisdiction, and procedural history), 
+2.Issue (indicating what is the factual or legal question), 
+3. Rule/Law/Holding (what law was created or used to justify the ruling), 
+4. Analysis (What was the court's reasoning for the Holding), and 
+5. Conclusion (or what was the takeaway).
+6. Others (Not Falling above category but it is a complete sentence )
+7. Invalid sentences(Not Falling above category but it is a incomplete sentence )",Please write annotation guideline.,2020-05-19 16:21:56.75929+00,2020-05-19 16:21:56.759309+00,DocumentClassification,FALSE,FALSE,17
+11,ArgumentMining-Max,"Law Cases sentence classification.
+Relevant parts, as indicated from law school study-guides for case-briefs are: 
+1.Facts (including parties, jurisdiction, and procedural history), 
+2.Issue (indicating what is the factual or legal question), 
+3. Rule/Law/Holding (what law was created or used to justify the ruling), 
+4. Analysis (What was the court's reasoning for the Holding), and 
+5. Conclusion (or what was the takeaway).
+6. Others (Not Falling above category but it is a complete sentence )
+7. Invalid sentences(Not Falling above category but it is a incomplete sentence )",Please write annotation guideline.,2020-05-19 16:22:28.000411+00,2020-05-19 16:22:28.000433+00,DocumentClassification,FALSE,FALSE,17
+12,ArgumentMining-Lavinia,"Law Cases sentence classification.
+Relevant parts, as indicated from law school study-guides for case-briefs are: 
+1.Facts (including parties, jurisdiction, and procedural history), 
+2.Issue (indicating what is the factual or legal question), 
+3. Rule/Law/Holding (what law was created or used to justify the ruling), 
+4. Analysis (What was the court's reasoning for the Holding), and 
+5. Conclusion (or what was the takeaway).
+6. Others (Not Falling above category but it is a complete sentence )
+7. Invalid sentences(Not Falling above category but it is a incomplete sentence )",Please write annotation guideline.,2020-05-19 16:23:00.940757+00,2020-05-19 16:23:00.940778+00,DocumentClassification,FALSE,FALSE,17
+13,ArgumentMining-Sanjeev,"Law Cases sentence classification.
+Relevant parts, as indicated from law school study-guides for case-briefs are: 
+1.Facts (including parties, jurisdiction, and procedural history), 
+2.Issue (indicating what is the factual or legal question), 
+3. Rule/Law/Holding (what law was created or used to justify the ruling), 
+4. Analysis (What was the court's reasoning for the Holding), and 
+5. Conclusion (or what was the takeaway).
+6. Others (Not Falling above category but it is a complete sentence )
+7. Invalid sentences(Not Falling above category but it is a incomplete sentence )",Please write annotation guideline.,2020-05-19 16:23:30.698257+00,2020-05-19 16:23:30.698293+00,DocumentClassification,FALSE,FALSE,17
+14,ArgumentMining-Sasank,"Law Cases sentence classification.
+Relevant parts, as indicated from law school study-guides for case-briefs are: 
+1.Facts (including parties, jurisdiction, and procedural history), 
+2.Issue (indicating what is the factual or legal question), 
+3. Rule/Law/Holding (what law was created or used to justify the ruling), 
+4. Analysis (What was the court's reasoning for the Holding), and 
+5. Conclusion (or what was the takeaway).
+6. Others (Not Falling above category but it is a complete sentence )
+7. Invalid sentences(Not Falling above category but it is a incomplete sentence )",Please write annotation guideline.,2020-05-19 16:23:50.675956+00,2020-05-19 16:23:50.675976+00,DocumentClassification,FALSE,FALSE,17
+15,ArgumentMining-Richard,"Law Cases sentence classification.
+Relevant parts, as indicated from law school study-guides for case-briefs are: 
+1.Facts (including parties, jurisdiction, and procedural history), 
+2.Issue (indicating what is the factual or legal question), 
+3. Rule/Law/Holding (what law was created or used to justify the ruling), 
+4. Analysis (What was the court's reasoning for the Holding), and 
+5. Conclusion (or what was the takeaway).
+6. Others (Not Falling above category but it is a complete sentence )
+7. Invalid sentences(Not Falling above category but it is a incomplete sentence )",Please write annotation guideline.,2020-05-19 16:24:10.62328+00,2020-05-19 16:24:10.623305+00,DocumentClassification,FALSE,FALSE,17
+16,ArgumentMining-Vincent,"Law Cases sentence classification.
+Relevant parts, as indicated from law school study-guides for case-briefs are: 
+1.Facts (including parties, jurisdiction, and procedural history), 
+2.Issue (indicating what is the factual or legal question), 
+3. Rule/Law/Holding (what law was created or used to justify the ruling), 
+4. Analysis (What was the court's reasoning for the Holding), and 
+5. Conclusion (or what was the takeaway).
+6. Others (Not Falling above category but it is a complete sentence )
+7. Invalid sentences(Not Falling above category but it is a incomplete sentence )",Please write annotation guideline.,2020-05-19 16:24:45.149242+00,2020-05-19 16:24:45.149262+00,DocumentClassification,FALSE,FALSE,17
+17,ArgumentMining-William,"Law Cases sentence classification.
+Relevant parts, as indicated from law school study-guides for case-briefs are: 
+1.Facts (including parties, jurisdiction, and procedural history), 
+2.Issue (indicating what is the factual or legal question), 
+3. Rule/Law/Holding (what law was created or used to justify the ruling), 
+4. Analysis (What was the court's reasoning for the Holding), and 
+5. Conclusion (or what was the takeaway).
+6. Others (Not Falling above category but it is a complete sentence )
+7. Invalid sentences(Not Falling above category but it is a incomplete sentence )",Please write annotation guideline.,2020-05-19 16:25:10.365542+00,2020-05-19 16:25:10.365562+00,DocumentClassification,FALSE,FALSE,17
+18,ArgumentMining-Pinna,"Law Cases sentence classification.
+Relevant parts, as indicated from law school study-guides for case-briefs are: 
+1.Facts (including parties, jurisdiction, and procedural history), 
+2.Issue (indicating what is the factual or legal question), 
+3. Rule/Law/Holding (what law was created or used to justify the ruling), 
+4. Analysis (What was the court's reasoning for the Holding), and 
+5. Conclusion (or what was the takeaway).
+6. Others (Not Falling above category but it is a complete sentence )
+7. Invalid sentences(Not Falling above category but it is a incomplete sentence )",Please write annotation guideline.,2020-05-19 16:27:07.868223+00,2020-05-19 16:27:07.868247+00,DocumentClassification,FALSE,FALSE,17
+19,ArgumentMining-Haihua,"Law Cases sentence classification. Relevant parts, as indicated from law school study-guides for case-briefs are: 1.Facts (including parties, jurisdiction, and procedural history), 2.Issue (indicating what is the factual or legal question), 3. Rule/Law/Holding (what law was created or used to justify the ruling), 4. Analysis (What was the court's reasoning for the Holding), and 5. Conclusion (or what was the takeaway). 6. Others (Not Falling above category but it is a complete sentence ) 7. Invalid sentences(Not Falling above category but it is a incomplete sentence )",Please write annotation guideline.,2020-05-19 16:44:10.049497+00,2020-05-19 16:44:10.049525+00,DocumentClassification,FALSE,FALSE,17
+20,ArgumentMining-Tulasiram,"Law Cases sentence classification. Relevant parts, as indicated from law school study-guides for case-briefs are: 1.Facts (including parties, jurisdiction, and procedural history), 2.Issue (indicating what is the factual or legal question), 3. Rule/Law/Holding (what law was created or used to justify the ruling), 4. Analysis (What was the court's reasoning for the Holding), and 5. Conclusion (or what was the takeaway). 6. Others (Not Falling above category but it is a complete sentence ) 7. Invalid sentences(Not Falling above category but it is a incomplete sentence )",Please write annotation guideline.,2020-05-20 21:11:27.871439+00,2020-05-20 21:11:27.87147+00,DocumentClassification,FALSE,FALSE,17
