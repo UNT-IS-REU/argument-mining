@@ -12,6 +12,7 @@ Tips On Managing This Project:
 - Make sure each category of imports is alphabetized for easier lookup
 - Each package should only contain classes or functions of code. Main code should be run here in "__main__.py"
 - If you want to add a new functionality (or package) to the project, make sure you add a "__init__.py" to make it a package!
+- Use docstrings when describing a class or a function! It makes it a lot easier to build good documentation based off of that!
 - Use feature branches to modify different packages
     - i.e. if you want to add or update to the "data/" package, do that in the "data" branch
 - There are 2 ways to run this project...
