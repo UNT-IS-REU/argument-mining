@@ -7,7 +7,8 @@ Tips On Managing This Project:
     - pip install virtualenv
     - pip install pipenv
     - Look online on how to use these virtual environment managers!
-- Make sure you categorize all import statements correctly
+- Make it clear between your IMPORTS and CODE! (Just like how I made those comment blocks...)
+- Make sure you categorize all import statements correctly (ex: Standard, Third-Party, and Local)
 - Make sure each category of imports is alphabetized for easier lookup
 - Each package should only contain classes or functions of code. Main code should be run here in "__main__.py"
 - If you want to add a new functionality (or package) to the project, make sure you add a "__init__.py" to make it a package!
