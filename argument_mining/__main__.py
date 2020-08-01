@@ -20,6 +20,7 @@ Tips On Managing This Project:
 - Make sure you are updating your dependency files often!
     - requirements.txt and test_requirements.txt (if you are using "virtualenv")
     - Pipfile and Pipfile.lock (if you are using "pipenv")
+    
 """
 
 ###########
