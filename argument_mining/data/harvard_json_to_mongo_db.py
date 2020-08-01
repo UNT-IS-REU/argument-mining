@@ -1,12 +1,18 @@
 # Author: haihua
 # 2020-05-09
 # Save the harvard case law data into mongoDB
-from json import JSONDecodeError
 
-from pymongo import MongoClient
+# Standard Library Imports
 import json
+from json import JSONDecodeError
 import os
+
+# Third Party Library Imports
 from ftfy import fix_text
+from pymongo import MongoClient
+
+# Local Library Imports
+
 
 # For the regular json files
 # def readJsonFile(inputFile):
