@@ -46,7 +46,6 @@ from .data import data_cleaning
 def main():
     # Clean Doccano Data By Splitting Data Into Best Labels and Conflict Labels
     dataset_path = os.path.join('argument_mining', 'resources', 'reu_argument-mining_dataset')
-    # print(dataset_path)
     data_cleaning.clean(dataset_path)  # Path Of Dataset
 
     # Todo: Run Model Functions Here!
