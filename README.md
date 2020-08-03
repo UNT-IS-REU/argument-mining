@@ -13,7 +13,3 @@ Here is a brief introduction of the background and tasks of the project:
 > The evaluation should be intrinsic since we have no ground truth. We will evaluate the annotator’s agreement level to judge the annotation quality. It is necessary to note that we also need to explore what agreement measure works best for our case and how to improve the quality. Since the annotation involves high-level semantics, the label can be pretty vague sometimes, and the agreement level can be low as a result. Quality control should also be part of our research task.
  
 > As for the dataset, we have several cases for WestLaw and Courtlistener. It is also a great option to download some data recently released by the Harvard law library.
-
----
-## Related Papers
-The [attached papers](https://drive.google.com/open?id=1oyjIWRQKhs3ntZlajqZKtpDiSNLvaFBA) are several most related papers to the project, of which the paper “Toward Constructing Evidence-Based Legal Arguments Using Legal Decision Documents and Machine Learning (named as Evidence_Based_Legal_Arguments.pdf)” describes almost the same final goal as ours.
