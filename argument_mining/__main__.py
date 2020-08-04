@@ -17,7 +17,7 @@ Tips On Managing This Project:
     - i.e. if you want to add or update to the "data/" package, do that in the "data" branch
 - There are 2 ways to run this project...
     1) Make sure you are at the top level of this project and type this command into the terminal:
-        python -m argument-mining
+        python -m argument_mining
     2) If you are editing this project from an IDE, I suggest you run the "run.py" file and it should work the same
 - Make sure you are updating your dependency files often!
     - requirements.txt and test_requirements.txt (if you are using "virtualenv")
