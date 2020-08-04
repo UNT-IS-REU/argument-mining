@@ -15,5 +15,4 @@ Here is a brief introduction of the background and tasks of the project:
 > As for the dataset, we have several cases for WestLaw and Courtlistener. It is also a great option to download some data recently released by the Harvard law library.
 
 ---
-## Related Papers
-The [attached papers](https://drive.google.com/open?id=1oyjIWRQKhs3ntZlajqZKtpDiSNLvaFBA) are several most related papers to the project, of which the paper “Toward Constructing Evidence-Based Legal Arguments Using Legal Decision Documents and Machine Learning (named as Evidence_Based_Legal_Arguments.pdf)” describes almost the same final goal as ours.
+[![Run on Repl.it](https://repl.it/badge/github/UNT-IS-REU/argument-mining)](https://repl.it/github/UNT-IS-REU/argument-mining)
