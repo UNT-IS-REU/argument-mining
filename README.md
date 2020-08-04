@@ -13,3 +13,5 @@ Here is a brief introduction of the background and tasks of the project:
 > The evaluation should be intrinsic since we have no ground truth. We will evaluate the annotator’s agreement level to judge the annotation quality. It is necessary to note that we also need to explore what agreement measure works best for our case and how to improve the quality. Since the annotation involves high-level semantics, the label can be pretty vague sometimes, and the agreement level can be low as a result. Quality control should also be part of our research task.
  
 > As for the dataset, we have several cases for WestLaw and Courtlistener. It is also a great option to download some data recently released by the Harvard law library.
+
+[![Run on Repl.it](https://repl.it/badge/github/UNT-IS-REU/argument-mining)](https://repl.it/github/UNT-IS-REU/argument-mining)
