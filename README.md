@@ -14,4 +14,5 @@ Here is a brief introduction of the background and tasks of the project:
  
 > As for the dataset, we have several cases for WestLaw and Courtlistener. It is also a great option to download some data recently released by the Harvard law library.
 
+---
 [![Run on Repl.it](https://repl.it/badge/github/UNT-IS-REU/argument-mining)](https://repl.it/github/UNT-IS-REU/argument-mining)
