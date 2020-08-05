@@ -37,6 +37,7 @@ import os
 
 # Local Library Imports
 from .data import data_cleaning
+from .models.basic_classifiers import BasicClassifiers
 
 
 ########
@@ -46,9 +47,28 @@ from .data import data_cleaning
 def main():
     # Clean Doccano Data By Splitting Data Into Best Labels and Conflict Labels
     dataset_path = os.path.join('argument_mining', 'resources', 'reu_argument-mining_dataset')
-    data_cleaning.clean(dataset_path)  # Path Of Dataset
+    # data_cleaning.clean(dataset_path)  # Path Of Dataset
+    print("Done With Data Cleaning!")
 
     # Todo: Run Model Functions Here!
+    bc = BasicClassifiers()
+    bc.load_data(dataset_path, stage_skip=2)
+    print("Loaded All Best Labels Into DataFrame!\n")
+
+    # Call All Basic Classifiers
+    bc.decision_tree()
+    print("--------------------------------------------")
+    bc.knn()
+    print("--------------------------------------------")
+    bc.logistic_regression()
+    print("--------------------------------------------")
+    bc.mlp()
+    print("--------------------------------------------")
+    bc.naive_bayes()
+    print("--------------------------------------------")
+    bc.random_forest()
+    print("--------------------------------------------")
+    bc.svm()
 
 
 if __name__ == '__main__':
