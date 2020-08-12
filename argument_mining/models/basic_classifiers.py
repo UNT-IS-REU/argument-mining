@@ -73,19 +73,17 @@ class BasicClassifiers:
             stage_path = os.path.join(dataset_path, stage)
             teams = sorted(os.listdir(stage_path))
             stage_num = stage[-1]
-            if stage_start <= int(stage_num) <= stage_end:  # Exclude First N Stages From The Conglomerated DataFrame
-                continue
-
-            # Loop Through All Teams In That Stage
-            for team in teams:
-                team_path = os.path.join(stage_path, team)
-                team_num = team[-1]
-                argument_labels_filename = "".join(['s', stage_num,
-                                                    '_t', team_num,
-                                                    '_best_labels.csv'])
-                csv_file_path = os.path.join(team_path, argument_labels_filename)
-                temp_df = pd.read_csv(csv_file_path, encoding='ISO-8859-1')
-                self.df = pd.concat([self.df, temp_df])
+            if stage_start <= int(stage_num) <= stage_end:
+                # Loop Through All Teams In That Stage
+                for team in teams:
+                    team_path = os.path.join(stage_path, team)
+                    team_num = team[-1]
+                    argument_labels_filename = "".join(['s', stage_num,
+                                                        '_t', team_num,
+                                                        '_best_labels.csv'])
+                    csv_file_path = os.path.join(team_path, argument_labels_filename)
+                    temp_df = pd.read_csv(csv_file_path, encoding='ISO-8859-1')
+                    self.df = pd.concat([self.df, temp_df])
 
         # Split The DataFrame Into Train and Test Sets
         train, test = train_test_split(self.df, test_size=0.2, random_state=99,
