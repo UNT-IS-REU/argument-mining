@@ -52,7 +52,7 @@ def main():
 
     # Todo: Run Model Functions Here!
     bc = BasicClassifiers()
-    bc.load_data(dataset_path, stage_skip=2)
+    bc.load_data(dataset_path, stage_end=2)
     print("Loaded All Best Labels Into DataFrame!\n")
 
     # Call All Basic Classifiers
