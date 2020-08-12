@@ -55,13 +55,14 @@ class BasicClassifiers:
         self.df = pd.DataFrame()
         self.target_names = ['Fact', 'Issue', 'Rule/Law/Holding', 'Analysis', 'Conclusion', 'Invalid Sentence']
 
-    def load_data(self, dataset_path: str, stage_skip=0) -> None:
+    def load_data(self, dataset_path: str, stage_start=0, stage_end=float('inf')) -> None:
         """
         Load and Consolidate the Dataset Into a Pandas DataFrame
         Split The DataFrame Into Train and Test Sets
 
         :param dataset_path:    Path to the Dataset
-        :param stage_skip:      Exclude the First "N" Stages From the Dataset
+        :param stage_start:     Select From Which Stage You Would Like Adding Data
+        :param stage_end:       Select To Which Stage You Would Like Adding Data
         :return:                Pandas DataFrame Containing All The Best Labels
         """
 
@@ -72,7 +73,7 @@ class BasicClassifiers:
             stage_path = os.path.join(dataset_path, stage)
             teams = sorted(os.listdir(stage_path))
             stage_num = stage[-1]
-            if int(stage_num) <= stage_skip:  # Exclude First N Stages From The Conglomerated DataFrame
+            if stage_start <= int(stage_num) <= stage_end:  # Exclude First N Stages From The Conglomerated DataFrame
                 continue
 
             # Loop Through All Teams In That Stage
@@ -81,7 +82,7 @@ class BasicClassifiers:
                 team_num = team[-1]
                 argument_labels_filename = "".join(['s', stage_num,
                                                     '_t', team_num,
-                                                    '_argument_labels.csv'])
+                                                    '_best_labels.csv'])
                 csv_file_path = os.path.join(team_path, argument_labels_filename)
                 temp_df = pd.read_csv(csv_file_path, encoding='ISO-8859-1')
                 self.df = pd.concat([self.df, temp_df])
@@ -205,9 +206,7 @@ class BasicClassifiers:
         :return:    None
         """
 
-        # print('GaussianNB\n')
         print('MultinomialNB\n')
-        # model = GaussianNB()
         model = MultinomialNB()
 
         # Fit the Model With the Training Data
