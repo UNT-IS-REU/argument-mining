@@ -45,14 +45,14 @@ from .models.basic_classifiers import BasicClassifiers
 ########
 
 def main():
-    # Clean Doccano Data By Splitting Data Into Best Labels and Conflict Labels
+    # Clean Doccano Data By Splitting Data Into Appropriate Categories
     dataset_path = os.path.join('argument_mining', 'resources', 'reu_argument-mining_dataset')
-    # data_cleaning.clean(dataset_path)  # Path Of Dataset
+    data_cleaning.clean(dataset_path)  # Path Of Dataset
     print("Done With Data Cleaning!")
 
     # Todo: Run Model Functions Here!
     bc = BasicClassifiers()
-    bc.load_data(dataset_path, stage_end=2)
+    bc.load_data(dataset_path, stage_start=3)
     print("Loaded All Best Labels Into DataFrame!\n")
 
     # Call All Basic Classifiers
