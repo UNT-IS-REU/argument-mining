@@ -1,6 +1,5 @@
 # Argument Mining
 
----
 ## Project Tasks
 Here is a brief introduction of the background and tasks of the project:
  
